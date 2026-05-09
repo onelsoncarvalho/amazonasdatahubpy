@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "amazonasdatahub"
+version = "0.1.0"
+description = "The goal of amazonasdatahub is to gather various data sets from the state of Amazonas (AM), Brazil, to which Deep Learning can be applied."
+authors = ["Nelson Geraldo Aquino de Carvalho"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
