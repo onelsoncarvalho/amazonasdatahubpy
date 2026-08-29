@@ -185,5 +185,5 @@ Interested in contributing? Check out the contributing guidelines. Please note t
 
 - CARVALHO, Nelson Geraldo Aquino de; NASCIMENTO, Leonardo Brandão
   Freitas do. **amazonasdatahub**. 2026.
-  <https://onelsoncarvalho.github.io/amazonasdatahub>.
+  <https://onelsoncarvalho.github.io/amazonasdatahubpy>.
 
