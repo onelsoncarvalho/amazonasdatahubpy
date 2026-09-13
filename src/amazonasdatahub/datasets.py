@@ -14,7 +14,7 @@ def get_dataset(dataset_name, force=False):
 
     file_name = f"{dataset_name}.parquet"
     local_path = CACHE_DIR / file_name 
-    url = f"https://raw.githubusercontent.com/onelsoncarvalho/testing_amazonasdatahub/main/data/{file_name}"
+    url = f"https://raw.githubusercontent.com/onelsoncarvalho/amazonasdatahubpy/raw_data/{file_name}"
 
     if force or not local_path.exists():
         print(f"Gathering updated data from {url}...")
