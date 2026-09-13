@@ -1,5 +1,5 @@
 
-# amazonasdatahub <img src="assets/figures/logo_amazonasdatahub.png" align="right" height="139" alt="amazonasdatahub logo">
+# amazonasdatahub <img src="assets/figures/logo_amazonasdatahub.png" align="right" height="139" alt="amazonasdatahub logo" />
 
 <!-- badges: start -->
 
