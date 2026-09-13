@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "amazonasdatahub"
-version = "0.2.2"
+version = "0.2.1"
 description = "The goal of amazonasdatahub is to gather various data sets from the state of Amazonas (AM), Brazil, to which Deep Learning can be applied."
 authors = ["Nelson Geraldo Aquino de Carvalho"]
 license = "MIT"
