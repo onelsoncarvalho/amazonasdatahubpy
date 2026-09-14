@@ -36,3 +36,15 @@ html_static_path = ['_static', '../assets']
 # a list of builtin themes.
 #
 html_theme = "shibuya"
+html_logo = "../assets/figures/logo_amazonasdatahub.png"
+html_theme_options = {
+    "accent_color": "jade",
+    "nav_socials": [
+        {
+            "name": "GitHub",
+            "url": "https://github.com/onelsoncarvalho/amazonasdatahubpy",
+            "icon": "simple-icons:github"
+        }
+    ],
+    "hide_breadcrumbs": True
+}

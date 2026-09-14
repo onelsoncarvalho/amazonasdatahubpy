@@ -1,6 +1,6 @@
+# amazonasdatahub
 
-# amazonasdatahub <img src="assets/figures/logo_amazonasdatahub.png" align="right" height="139" alt="amazonasdatahub logo" />
-
+![amazonasdatahub logo](assets/figures/logo_amazonasdatahub_small.png)
 <!-- badges: start -->
 
 <!-- badges: end -->
