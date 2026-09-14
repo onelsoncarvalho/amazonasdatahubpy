@@ -23,9 +23,9 @@ disponíveis nos seguintes idiomas:
 Python only documentation:
 
 - [English documentation for Python
-  version](https://onelsoncarvalho.github.io/amazonasdatahub)
+  version](https://onelsoncarvalho.github.io/amazonasdatahubpy)
 - [🇧🇷 Documentação em Português (BR) para versão do
-  Python](https://onelsoncarvalho.github.io/amazonasdatahub/br)
+  Python](https://onelsoncarvalho.github.io/amazonasdatahubpy)
 
 ## Overview
 
