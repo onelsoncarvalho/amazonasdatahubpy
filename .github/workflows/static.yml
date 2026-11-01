@@ -70,7 +70,7 @@ jobs:
         run: |
           source .venv/bin/activate
           sphinx-build -b html -D language=en    docs _site/en
-          sphinx-build -b html -D language=pt_BR docs _site/pt
+          sphinx-build -b html -D language=pt_BR docs _site/br
           touch _site/.nojekyll
           echo '<meta http-equiv="refresh" content="0; url=en/">' > _site/index.html
 

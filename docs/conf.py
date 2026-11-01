@@ -23,6 +23,8 @@ extensions = [
 ]
 autoapi_dirs = ["../src"]
 
+REPO_URL = "https://onelsoncarvalho.github.io/amazonasdatahubpy"
+
 # List of patterns, relative to source directory, that match files and
 # directories to ignore when looking for source files.
 # This pattern also affects html_static_path and html_extra_path.
@@ -39,6 +41,16 @@ html_theme = "shibuya"
 html_logo = "../assets/figures/logo_amazonasdatahub.png"
 html_theme_options = {
     "accent_color": "jade",
+    "nav_links": [
+        {
+            "title": "Idioma/Language",
+            "url": f"{REPO_URL}/en",
+            "children": [
+                {"title": "English", "url": f"{REPO_URL}/en/"},
+                {"title": "Português (Brasil)", "url": f"{REPO_URL}/br/"}
+            ]
+        }  
+    ],
     "nav_socials": [
         {
             "name": "GitHub",

@@ -16,16 +16,16 @@ following languages/Documentação das versões em Python e R estão
 disponíveis nos seguintes idiomas:
 
 - [English
-  documentation](https://onelsoncarvalho.github.io/amazonasdatahubsite/en)
+  documentation](https://onelsoncarvalho.github.io/amazonasdatahubsite/en/)
 - [🇧🇷 Documentação em Português
-  (BR)](https://onelsoncarvalho.github.io/amazonasdatahubsite)
+  (BR)](https://onelsoncarvalho.github.io/amazonasdatahubsite/)
 
 Python only documentation:
 
 - [English documentation for Python
-  version](https://onelsoncarvalho.github.io/amazonasdatahubpy)
+  version](https://onelsoncarvalho.github.io/amazonasdatahubpy/en/)
 - [🇧🇷 Documentação em Português (BR) para versão do
-  Python](https://onelsoncarvalho.github.io/amazonasdatahubpy)
+  Python](https://onelsoncarvalho.github.io/amazonasdatahubpy/br/)
 
 ## Overview
 
