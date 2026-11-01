@@ -1,0 +1,1455 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2026, Nelson Geraldo Aquino de Carvalho
+# This file is distributed under the same license as the amazonasdatahub
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: amazonasdatahub\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-01 19:09+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: pt_BR <LL@li.org>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Generated-By: Babel 2.18.0\n"
+
+#: ../../datasets.md:1
+msgid "Datasets"
+msgstr "Conjuntos de dados"
+
+#: ../../../src/amazonasdatahub/documentations/agriculture_amazonas.md:6
+msgid "agriculture_amazonas"
+msgstr "agricultura_amazonas"
+
+#: ../../../src/amazonasdatahub/documentations/agriculture_amazonas.md:8
+msgid ""
+"Plant production data from the Institute of Sustainable Agricultural and "
+"Forestry Development of Amazonas - IDAM (2023)."
+msgstr ""
+"Dados sobre a produção vegetal do Instituto de Desenvolvimento Agrícola e "
+"Florestal Sustentável do Amazonas – IDAM (2023)."
+
+#: ../../../src/amazonasdatahub/documentations/agriculture_amazonas.md:10
+#: ../../../src/amazonasdatahub/documentations/aids_amazonas.md:11
+#: ../../../src/amazonasdatahub/documentations/gdp_amazonas.md:10
+#: ../../../src/amazonasdatahub/documentations/humidity_manaus.md:10
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:10
+#: ../../../src/amazonasdatahub/documentations/prf_amazonas.md:10
+#: ../../../src/amazonasdatahub/documentations/rionegro_amazonas.md:10
+#: ../../../src/amazonasdatahub/documentations/srl_muni.md:10
+msgid "Description"
+msgstr "Descrição"
+
+#: ../../../src/amazonasdatahub/documentations/agriculture_amazonas.md:12
+msgid ""
+"This database, which is the consolidation of data from IDAM's activity "
+"reports, provides crop production data for crops that this institute "
+"considers a priority."
+msgstr ""
+"Essa base de dados, que reúne informações extraídas dos relatórios de "
+"atividades do IDAM, fornece dados sobre a produção agrícola das culturas que"
+" esse instituto considera prioritárias."
+
+#: ../../../src/amazonasdatahub/documentations/agriculture_amazonas.md:14
+#: ../../../src/amazonasdatahub/documentations/aids_amazonas.md:15
+#: ../../../src/amazonasdatahub/documentations/gdp_amazonas.md:15
+#: ../../../src/amazonasdatahub/documentations/humidity_manaus.md:15
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:15
+#: ../../../src/amazonasdatahub/documentations/prf_amazonas.md:14
+#: ../../../src/amazonasdatahub/documentations/rionegro_amazonas.md:14
+#: ../../../src/amazonasdatahub/documentations/srl_muni.md:14
+msgid "Usage"
+msgstr "Uso"
+
+#: ../../../src/amazonasdatahub/documentations/agriculture_amazonas.md:20
+#: ../../../src/amazonasdatahub/documentations/aids_amazonas.md:21
+#: ../../../src/amazonasdatahub/documentations/gdp_amazonas.md:21
+#: ../../../src/amazonasdatahub/documentations/humidity_manaus.md:21
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:21
+#: ../../../src/amazonasdatahub/documentations/prf_amazonas.md:20
+#: ../../../src/amazonasdatahub/documentations/rionegro_amazonas.md:20
+#: ../../../src/amazonasdatahub/documentations/srl_muni.md:20
+msgid "Format"
+msgstr "Formato"
+
+#: ../../../src/amazonasdatahub/documentations/agriculture_amazonas.md:22
+msgid "‘agriculture_amazonas’ A data frame with 1072 rows and 13 columns:"
+msgstr "‘agriculture_amazonas’ Um data frame com 1.072 linhas e 13 colunas:"
+
+#: ../../../src/amazonasdatahub/documentations/agriculture_amazonas.md:24
+#: ../../../src/amazonasdatahub/documentations/prf_amazonas.md:52
+msgid "municipality"
+msgstr "município"
+
+#: ../../../src/amazonasdatahub/documentations/agriculture_amazonas.md:26
+#: ../../../src/amazonasdatahub/documentations/prf_amazonas.md:54
+msgid "Municipality"
+msgstr "Município"
+
+#: ../../../src/amazonasdatahub/documentations/agriculture_amazonas.md:28
+msgid "local_unit"
+msgstr "unidade_local"
+
+#: ../../../src/amazonasdatahub/documentations/agriculture_amazonas.md:30
+msgid "Local Unit of the Institute"
+msgstr "Unidade Local do Instituto"
+
+#: ../../../src/amazonasdatahub/documentations/agriculture_amazonas.md:32
+msgid "n_beneficiary"
+msgstr "n_beneficiário"
+
+#: ../../../src/amazonasdatahub/documentations/agriculture_amazonas.md:34
+msgid "Number of assisted beneficiaries"
+msgstr "Número de beneficiários atendidos"
+
+#: ../../../src/amazonasdatahub/documentations/agriculture_amazonas.md:36
+msgid "planted"
+msgstr "plantado"
+
+#: ../../../src/amazonasdatahub/documentations/agriculture_amazonas.md:38
+msgid "Planted area in hectares (ha)"
+msgstr "Área plantada em hectares (ha)"
+
+#: ../../../src/amazonasdatahub/documentations/agriculture_amazonas.md:40
+msgid "harvested"
+msgstr "colhido"
+
+#: ../../../src/amazonasdatahub/documentations/agriculture_amazonas.md:42
+msgid "Harvested area in hectares (ha)"
+msgstr "Área colhida em hectares (ha)"
+
+#: ../../../src/amazonasdatahub/documentations/agriculture_amazonas.md:44
+msgid "production"
+msgstr "produção"
+
+#: ../../../src/amazonasdatahub/documentations/agriculture_amazonas.md:46
+msgid "Production (in the unit of measurement - measure)"
+msgstr "Produção (na unidade de medida - medida)"
+
+#: ../../../src/amazonasdatahub/documentations/agriculture_amazonas.md:48
+msgid "estimated_n_beneficiary"
+msgstr "estimativa_do_número_de_beneficiários"
+
+#: ../../../src/amazonasdatahub/documentations/agriculture_amazonas.md:50
+msgid "Estimate of the number of beneficiaries"
+msgstr "Estimativa do número de beneficiários"
+
+#: ../../../src/amazonasdatahub/documentations/agriculture_amazonas.md:52
+msgid "estimated_planted"
+msgstr "área_plantada_estimada"
+
+#: ../../../src/amazonasdatahub/documentations/agriculture_amazonas.md:54
+msgid "Estimate of the planted area (ha)"
+msgstr "Estimativa da área plantada (ha)"
+
+#: ../../../src/amazonasdatahub/documentations/agriculture_amazonas.md:56
+msgid "estimated_harvested"
+msgstr "colheita_estimada"
+
+#: ../../../src/amazonasdatahub/documentations/agriculture_amazonas.md:58
+msgid "Estimate of the harvested area (ha)"
+msgstr "Estimativa da área colhida (ha)"
+
+#: ../../../src/amazonasdatahub/documentations/agriculture_amazonas.md:60
+msgid "estimated_production"
+msgstr "produção_estimada"
+
+#: ../../../src/amazonasdatahub/documentations/agriculture_amazonas.md:62
+msgid "Estimate of production (in the unit of measurement - measure)"
+msgstr "Estimativa da produção (na unidade de medida - medida)"
+
+#: ../../../src/amazonasdatahub/documentations/agriculture_amazonas.md:64
+msgid "measure"
+msgstr "medida"
+
+#: ../../../src/amazonasdatahub/documentations/agriculture_amazonas.md:66
+msgid "Unit of Measurement of production"
+msgstr "Unidade de medida da produção"
+
+#: ../../../src/amazonasdatahub/documentations/agriculture_amazonas.md:69
+msgid "cultivation"
+msgstr "cultivo"
+
+#: ../../../src/amazonasdatahub/documentations/agriculture_amazonas.md:71
+msgid "Cultivation"
+msgstr "Cultivo"
+
+#: ../../../src/amazonasdatahub/documentations/agriculture_amazonas.md:73
+#: ../../../src/amazonasdatahub/documentations/aids_amazonas.md:41
+#: ../../../src/amazonasdatahub/documentations/gdp_amazonas.md:25
+#: ../../../src/amazonasdatahub/documentations/humidity_manaus.md:25
+#: ../../../src/amazonasdatahub/documentations/rionegro_amazonas.md:40
+msgid "year"
+msgstr "ano"
+
+#: ../../../src/amazonasdatahub/documentations/agriculture_amazonas.md:75
+msgid "Year of cultivation"
+msgstr "Ano de cultivo"
+
+#: ../../../src/amazonasdatahub/documentations/agriculture_amazonas.md:77
+#: ../../../src/amazonasdatahub/documentations/aids_amazonas.md:45
+#: ../../../src/amazonasdatahub/documentations/gdp_amazonas.md:101
+#: ../../../src/amazonasdatahub/documentations/humidity_manaus.md:46
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:189
+#: ../../../src/amazonasdatahub/documentations/prf_amazonas.md:136
+#: ../../../src/amazonasdatahub/documentations/rionegro_amazonas.md:48
+#: ../../../src/amazonasdatahub/documentations/srl_muni.md:92
+msgid "Source"
+msgstr "Fonte"
+
+#: ../../../src/amazonasdatahub/documentations/agriculture_amazonas.md:79
+msgid ""
+"https://www.idam.am.gov.br/biblioteca/relatorio-de-atividades-rat-23-2/"
+msgstr ""
+"https://www.idam.am.gov.br/biblioteca/relatorio-de-atividades-rat-23-2/"
+
+#: ../../../src/amazonasdatahub/documentations/aids_amazonas.md:7
+msgid "aids_amazonas"
+msgstr "aids_amazonas"
+
+#: ../../../src/amazonasdatahub/documentations/aids_amazonas.md:9
+msgid "A dataset of AIDS occurrences from 2011 to 2023 in Amazonas"
+msgstr "Um conjunto de dados sobre casos de AIDS de 2011 a 2023 no Amazonas"
+
+#: ../../../src/amazonasdatahub/documentations/aids_amazonas.md:13
+msgid ""
+"This dataset contains data of the AIDS occurrences in each municipality from"
+" Amazonas."
+msgstr ""
+"Este conjunto de dados contém informações sobre os casos de AIDS em cada "
+"município do Amazonas."
+
+#: ../../../src/amazonasdatahub/documentations/aids_amazonas.md:23
+msgid "‘aids_amazonas’ A data frame with 48 rows and 21 columns:"
+msgstr "‘aids_amazonas’ Um data frame com 48 linhas e 21 colunas:"
+
+#: ../../../src/amazonasdatahub/documentations/aids_amazonas.md:25
+msgid "code_muni"
+msgstr "code_muni"
+
+#: ../../../src/amazonasdatahub/documentations/aids_amazonas.md:27
+msgid "Municipality code"
+msgstr "Código municipal"
+
+#: ../../../src/amazonasdatahub/documentations/aids_amazonas.md:29
+msgid "name_muni"
+msgstr "nome_muni"
+
+#: ../../../src/amazonasdatahub/documentations/aids_amazonas.md:31
+msgid "Municipality name"
+msgstr "Nome do município"
+
+#: ../../../src/amazonasdatahub/documentations/aids_amazonas.md:33
+msgid "cases"
+msgstr "casos"
+
+#: ../../../src/amazonasdatahub/documentations/aids_amazonas.md:35
+msgid "Case count"
+msgstr "Número de casos"
+
+#: ../../../src/amazonasdatahub/documentations/aids_amazonas.md:37
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:161
+msgid "gender"
+msgstr "gênero"
+
+#: ../../../src/amazonasdatahub/documentations/aids_amazonas.md:39
+msgid "Gender of the infected individual - M for Male and F for female"
+msgstr "Sexo da pessoa infectada — M para homem e F para mulher"
+
+#: ../../../src/amazonasdatahub/documentations/aids_amazonas.md:43
+msgid "Year of observation"
+msgstr "Ano de observação"
+
+#: ../../../src/amazonasdatahub/documentations/aids_amazonas.md:47
+msgid "https://indicadores.aids.gov.br"
+msgstr "https://indicadores.aids.gov.br"
+
+#: ../../../src/amazonasdatahub/documentations/gdp_amazonas.md:6
+msgid "gdp_amazonas"
+msgstr "pib_amazonas"
+
+#: ../../../src/amazonasdatahub/documentations/gdp_amazonas.md:8
+msgid "Gross Domestic Product - GDP of Amazonas"
+msgstr "Produto Interno Bruto (PIB) do Amazonas"
+
+#: ../../../src/amazonasdatahub/documentations/gdp_amazonas.md:12
+msgid ""
+"This database contains information about the Gross Domestic Product (GDP) of"
+" the state of Amazonas over the years (from 2010 to 2021). It includes "
+"values in R$ 1,000,000."
+msgstr ""
+"Este banco de dados contém informações sobre o Produto Interno Bruto (PIB) "
+"do estado do Amazonas ao longo dos anos (de 2010 a 2021). Ele inclui valores"
+" em R$ 1.000.000."
+
+#: ../../../src/amazonasdatahub/documentations/gdp_amazonas.md:23
+msgid "‘gdp_amazonas’ A data frame with 48 rows and 21 columns:"
+msgstr "‘gdp_amazonas’ Um data frame com 48 linhas e 21 colunas:"
+
+#: ../../../src/amazonasdatahub/documentations/gdp_amazonas.md:27
+msgid "Indicates the year in which the GDP info was collected"
+msgstr "Indica o ano em que os dados do PIB foram coletados"
+
+#: ../../../src/amazonasdatahub/documentations/gdp_amazonas.md:29
+msgid "quarter"
+msgstr "trimestre"
+
+#: ../../../src/amazonasdatahub/documentations/gdp_amazonas.md:31
+msgid "Specifies the quarter of the year"
+msgstr "Especifica o trimestre do ano"
+
+#: ../../../src/amazonasdatahub/documentations/gdp_amazonas.md:33
+msgid "agriculture"
+msgstr "agricultura"
+
+#: ../../../src/amazonasdatahub/documentations/gdp_amazonas.md:35
+msgid ""
+"Refers to the economic output from agricultural activities, including "
+"cultivation, harvesting, and logistical support after harvest"
+msgstr ""
+"Refere-se à produção econômica resultante das atividades agrícolas, "
+"incluindo o cultivo, a colheita e o apoio logístico após a colheita"
+
+#: ../../../src/amazonasdatahub/documentations/gdp_amazonas.md:37
+msgid "livestock"
+msgstr "gado"
+
+#: ../../../src/amazonasdatahub/documentations/gdp_amazonas.md:39
+msgid ""
+"Represents the economic contribution from livestock farming, covering meat, "
+"dairy production, and related support services"
+msgstr ""
+"Representa a contribuição econômica da pecuária, abrangendo a produção de "
+"carne, de laticínios e os serviços de apoio relacionados"
+
+#: ../../../src/amazonasdatahub/documentations/gdp_amazonas.md:41
+msgid "forest_fishing_prod"
+msgstr "pesca_na_floresta_prod"
+
+#: ../../../src/amazonasdatahub/documentations/gdp_amazonas.md:43
+msgid ""
+"Outputs from forestry (timber and non-timber products), fishing activities "
+"and aquaculture (fish farming)"
+msgstr ""
+"Produção da silvicultura (produtos madeireiros e não madeireiros), das "
+"atividades pesqueiras e da aquicultura (criação de peixes)"
+
+#: ../../../src/amazonasdatahub/documentations/gdp_amazonas.md:45
+msgid "extractive_ind"
+msgstr "indústria_extrativa"
+
+#: ../../../src/amazonasdatahub/documentations/gdp_amazonas.md:47
+msgid "Extractive industries of natural resources as minearls and oil"
+msgstr "Indústrias extrativas de recursos naturais, como minerais e petróleo"
+
+#: ../../../src/amazonasdatahub/documentations/gdp_amazonas.md:49
+msgid "manufacturing_ind"
+msgstr "indústria_manufatureira"
+
+#: ../../../src/amazonasdatahub/documentations/gdp_amazonas.md:51
+msgid ""
+"Refers to the transformation of raw materials into finished goods industries"
+msgstr ""
+"Refere-se às indústrias que transformam matérias-primas em produtos acabados"
+
+#: ../../../src/amazonasdatahub/documentations/gdp_amazonas.md:53
+msgid "basic_infrastructure"
+msgstr "infraestrutura_básica"
+
+#: ../../../src/amazonasdatahub/documentations/gdp_amazonas.md:55
+msgid ""
+"Encompasses services related to electricity and gas generation, water "
+"supply, sewage treatment, and waste management.constructionRepresents "
+"economic activities related to building construction."
+msgstr ""
+"Abrange serviços relacionados à geração de eletricidade e gás, abastecimento"
+" de água, tratamento de esgoto e gestão de resíduos. Construção: representa "
+"as atividades econômicas relacionadas à construção civil."
+
+#: ../../../src/amazonasdatahub/documentations/gdp_amazonas.md:57
+msgid "vehicle_retail_repair"
+msgstr "venda_a_retalho_e_reparação_de_veículos"
+
+#: ../../../src/amazonasdatahub/documentations/gdp_amazonas.md:59
+msgid ""
+"Includes all commercial activities related to selling goods and services as "
+"well as vehicle repair services."
+msgstr ""
+"Inclui todas as atividades comerciais relacionadas à venda de bens e "
+"serviços, bem como serviços de reparo de veículos."
+
+#: ../../../src/amazonasdatahub/documentations/gdp_amazonas.md:61
+msgid "transport_storage_post"
+msgstr "transporte_armazenamento_postagem"
+
+#: ../../../src/amazonasdatahub/documentations/gdp_amazonas.md:63
+msgid ""
+"Covers services related to transporting people and goods, storage "
+"facilities, and postal services."
+msgstr ""
+"Abrange serviços relacionados ao transporte de pessoas e mercadorias, "
+"instalações de armazenamento e serviços postais."
+
+#: ../../../src/amazonasdatahub/documentations/gdp_amazonas.md:65
+msgid "accomodation_food"
+msgstr "hospedagem_alimentação"
+
+#: ../../../src/amazonasdatahub/documentations/gdp_amazonas.md:67
+msgid ""
+"Refers to economic activities in tourism-related sectors such as hotels and "
+"restaurants.information_communicationEncompasses sectors dealing with "
+"information technology and telecommunications."
+msgstr ""
+"Refere-se às atividades econômicas em setores relacionados ao turismo, como "
+"hotéis e restaurantes. informação_comunicação Abrange setores ligados à "
+"tecnologia da informação e às telecomunicações."
+
+#: ../../../src/amazonasdatahub/documentations/gdp_amazonas.md:69
+msgid "financial_activities"
+msgstr "atividades_financeiras"
+
+#: ../../../src/amazonasdatahub/documentations/gdp_amazonas.md:71
+msgid ""
+"Includes banks, financial institutions, insurance companies, and various "
+"financial services."
+msgstr ""
+"Inclui bancos, instituições financeiras, seguradoras e diversos serviços "
+"financeiros."
+
+#: ../../../src/amazonasdatahub/documentations/gdp_amazonas.md:73
+msgid "real_state_activities"
+msgstr "atividades_imobiliárias"
+
+#: ../../../src/amazonasdatahub/documentations/gdp_amazonas.md:75
+msgid ""
+"Refers to transactions involving buying, selling, or renting properties."
+msgstr ""
+"Refere-se a transações que envolvem a compra, venda ou locação de imóveis."
+
+#: ../../../src/amazonasdatahub/documentations/gdp_amazonas.md:77
+msgid "professional_activities"
+msgstr "atividades_profissionais"
+
+#: ../../../src/amazonasdatahub/documentations/gdp_amazonas.md:79
+msgid ""
+"Covers a wide range of specialized professional services including "
+"consulting and administrative support."
+msgstr ""
+"Abrange uma ampla gama de serviços profissionais especializados, incluindo "
+"consultoria e apoio administrativo."
+
+#: ../../../src/amazonasdatahub/documentations/gdp_amazonas.md:81
+msgid "public_admin_defense_health_edu"
+msgstr "administração_pública_defesa_saúde_educação"
+
+#: ../../../src/amazonasdatahub/documentations/gdp_amazonas.md:83
+msgid ""
+"Represents public sector spending on government administration, national "
+"defense, public education, health care services, and social security "
+"programs."
+msgstr ""
+"Representa os gastos do setor público com administração governamental, "
+"defesa nacional, educação pública, serviços de saúde e programas de "
+"previdência social."
+
+#: ../../../src/amazonasdatahub/documentations/gdp_amazonas.md:85
+msgid "private_edu_health"
+msgstr "educação_privada_saúde"
+
+#: ../../../src/amazonasdatahub/documentations/gdp_amazonas.md:87
+msgid ""
+"Refers to educational institutions and health care providers operating in "
+"the private sector."
+msgstr ""
+"Refere-se a instituições de ensino e prestadores de serviços de saúde que "
+"atuam no setor privado."
+
+#: ../../../src/amazonasdatahub/documentations/gdp_amazonas.md:89
+msgid "art_culture_sport"
+msgstr "arte_cultura_esporte"
+
+#: ../../../src/amazonasdatahub/documentations/gdp_amazonas.md:91
+msgid ""
+"Encompasses activities related to entertainment, cultural events, sports "
+"facilities, and other service-oriented sectors."
+msgstr ""
+"Abrange atividades relacionadas ao entretenimento, eventos culturais, "
+"instalações esportivas e outros setores voltados para a prestação de "
+"serviços."
+
+#: ../../../src/amazonasdatahub/documentations/gdp_amazonas.md:93
+msgid "domestic_services"
+msgstr "serviços_domésticos"
+
+#: ../../../src/amazonasdatahub/documentations/gdp_amazonas.md:95
+msgid ""
+"Includes personal services provided within households such as cleaning or "
+"caregiving."
+msgstr ""
+"Inclui serviços pessoais prestados em domicílios, como limpeza ou cuidados a"
+" pessoas."
+
+#: ../../../src/amazonasdatahub/documentations/gdp_amazonas.md:97
+msgid "taxes"
+msgstr "impostos"
+
+#: ../../../src/amazonasdatahub/documentations/gdp_amazonas.md:99
+msgid ""
+"Represents taxes levied on goods and services included in GDP calculations."
+msgstr ""
+"Representa os impostos cobrados sobre bens e serviços incluídos nos cálculos"
+" do PIB."
+
+#: ../../../src/amazonasdatahub/documentations/gdp_amazonas.md:103
+msgid ""
+"Scientific Journal of Applied Social and Clinical Science - TIME SERIES "
+"ANALYSIS FOR THE QUARTERLY GROSS DOMESTIC PRODUCT OF AMAZONAS"
+msgstr ""
+"Revista Científica de Ciências Sociais e Clínicas Aplicadas - ANÁLISE DE "
+"SÉRIES TEMPORAIS DO PRODUTO INTERNO BRUTO TRIMESTRAL DO ESTADO DO AMAZONAS"
+
+#: ../../../src/amazonasdatahub/documentations/humidity_manaus.md:6
+msgid "humidity_manaus"
+msgstr "umidade_manaus"
+
+#: ../../../src/amazonasdatahub/documentations/humidity_manaus.md:8
+msgid "Time series with Extreme Values of Limited Range"
+msgstr "Séries temporais com valores extremos de amplitude limitada"
+
+#: ../../../src/amazonasdatahub/documentations/humidity_manaus.md:12
+msgid ""
+"A time series dataset consisting of the minimum relative humidity observed "
+"in the city of Manaus from January 2009 to December 2020. This dataset is a "
+"sample of size n = 144 monthly blocks."
+msgstr ""
+"Um conjunto de dados de série temporal composto pela umidade relativa mínima"
+" observada na cidade de Manaus, de janeiro de 2009 a dezembro de 2020. Esse "
+"conjunto de dados é uma amostra de tamanho n = 144 blocos mensais."
+
+#: ../../../src/amazonasdatahub/documentations/humidity_manaus.md:23
+msgid "‘humidity_manaus’ A tibble with 144 rows and 5 columns"
+msgstr "‘humidity_manaus’ Um tibble com 144 linhas e 5 colunas"
+
+#: ../../../src/amazonasdatahub/documentations/humidity_manaus.md:27
+msgid "The year in which this data was observed"
+msgstr "O ano em que esses dados foram registrados"
+
+#: ../../../src/amazonasdatahub/documentations/humidity_manaus.md:29
+msgid "rh"
+msgstr "rh"
+
+#: ../../../src/amazonasdatahub/documentations/humidity_manaus.md:31
+msgid "Relative Humidity"
+msgstr "Umidade relativa"
+
+#: ../../../src/amazonasdatahub/documentations/humidity_manaus.md:33
+msgid "dbt"
+msgstr "dbt"
+
+#: ../../../src/amazonasdatahub/documentations/humidity_manaus.md:35
+msgid "Dry Bulb Temperature"
+msgstr "Temperatura do bulbo seco"
+
+#: ../../../src/amazonasdatahub/documentations/humidity_manaus.md:37
+msgid "wbt"
+msgstr "wbt"
+
+#: ../../../src/amazonasdatahub/documentations/humidity_manaus.md:39
+msgid "Wet Bulb Temperature"
+msgstr "Temperatura do bulbo úmido"
+
+#: ../../../src/amazonasdatahub/documentations/humidity_manaus.md:41
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:185
+#: ../../../src/amazonasdatahub/documentations/rionegro_amazonas.md:36
+msgid "month"
+msgstr "mês"
+
+#: ../../../src/amazonasdatahub/documentations/humidity_manaus.md:43
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:187
+msgid "The month in which this data was observed"
+msgstr "O mês em que esses dados foram registrados"
+
+#: ../../../src/amazonasdatahub/documentations/humidity_manaus.md:48
+msgid ""
+"NASCIMENTO, Leonardo Brandão Freitas; LIMA, Max Sousa; DUCZMAL, Luiz H. "
+"P-min-stable regression models for time series with extreme values of "
+"limited range. Environmetrics, Issue 2, v. 36, 2025."
+msgstr ""
+"NASCIMENTO, Leonardo Brandão Freitas; LIMA, Max Sousa; DUCZMAL, Luiz H. "
+"Modelos de regressão P-min-estáveis para séries temporais com valores "
+"extremos de amplitude limitada. Environmetrics, Edição 2, v. 36, 2025."
+
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:6
+msgid "malaria_amazonas"
+msgstr "malária_amazonas"
+
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:8
+msgid ""
+"An integrated dataset of malaria notifications in the state of Amazonas"
+msgstr ""
+"Um conjunto de dados integrado de notificações de malária no estado do "
+"Amazonas"
+
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:12
+msgid ""
+"This dataset contains medical records of patients who underwent malaria "
+"screening tests in the Legal Amazon. The data in this dataset were filtered "
+"to include only the cases reported in the state of Amazonas and for patients"
+" who reside specifically in the state of Amazonas."
+msgstr ""
+"Este conjunto de dados contém registros médicos de pacientes que se "
+"submeteram a exames de triagem para malária na Amazônia Legal. Os dados "
+"deste conjunto foram filtrados para incluir apenas os casos notificados no "
+"estado do Amazonas e de pacientes que residem especificamente no estado do "
+"Amazonas."
+
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:23
+msgid "‘malaria_amazonas’ A data frame with 1098620 rows and 40 columns:"
+msgstr "‘malaria_amazonas’ Um data frame com 1.098.620 linhas e 40 colunas:"
+
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:25
+msgid "notification_state"
+msgstr "estado_da_notificação"
+
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:27
+msgid "State of notification"
+msgstr "Status da notificação"
+
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:29
+msgid "notification_rh"
+msgstr "notificação_rh"
+
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:31
+msgid "Health region of notification"
+msgstr "Região de saúde de notificação"
+
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:33
+msgid "notification_county"
+msgstr "notificação_município"
+
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:35
+msgid "County of notification"
+msgstr "Município de notificação"
+
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:37
+msgid "infection_country"
+msgstr "país_de_infecção"
+
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:39
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:51
+msgid "Probable county where the patient was infected"
+msgstr "Condado provável onde o paciente foi infectado"
+
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:41
+msgid "infection_state"
+msgstr "estado_da_infecção"
+
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:43
+msgid "Probable state where the patient was infected"
+msgstr "Estado provável onde o paciente foi infectado"
+
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:45
+msgid "infection_hr"
+msgstr "infecção_hr"
+
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:47
+msgid "Probable health region where the patient was infected"
+msgstr "Região de saúde provável onde o paciente foi infectado"
+
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:49
+msgid "infection_county"
+msgstr "condado_de_infecção"
+
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:53
+msgid "home_country"
+msgstr "país_de_origem"
+
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:55
+msgid "Country of residence of the patient"
+msgstr "País de residência do paciente"
+
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:57
+msgid "home_state"
+msgstr "estado_de_residência"
+
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:59
+msgid "State of residence of the patient"
+msgstr "Estado de residência do paciente"
+
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:61
+msgid "home_hr"
+msgstr "home_hr"
+
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:63
+msgid "Health region of residence of the patient"
+msgstr "Região de saúde de residência do paciente"
+
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:65
+msgid "home_county"
+msgstr "município_de_residência"
+
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:67
+msgid "County of residence of the patient"
+msgstr "Município de residência do paciente"
+
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:69
+msgid "exam_interval"
+msgstr "intervalo_entre_exames"
+
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:71
+msgid "Time interval between notification and examination"
+msgstr "Intervalo de tempo entre a notificação e o exame"
+
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:73
+msgid "treatment_interval"
+msgstr "intervalo_de_tratamento"
+
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:75
+msgid "Time interval between examination and beginning of treatment"
+msgstr "Intervalo de tempo entre o exame e o início do tratamento"
+
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:77
+msgid "notification_interval"
+msgstr "intervalo_de_notificação"
+
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:79
+msgid "Time interval between symptom and notification"
+msgstr "Intervalo de tempo entre o surgimento do sintoma e a notificação"
+
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:81
+msgid "notification_month"
+msgstr "mês_da_notificação"
+
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:83
+msgid "Month in which the notification was recorded"
+msgstr "Mês em que a notificação foi registrada"
+
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:85
+msgid "notification_year"
+msgstr "ano_da_notificação"
+
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:87
+msgid "Year in which the notification was recorded"
+msgstr "Ano em que a notificação foi registrada"
+
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:89
+msgid "symptom_month"
+msgstr "mês_do_sintoma"
+
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:91
+msgid "Month in which the patient felt the first symptoms of malaria"
+msgstr "Mês em que o paciente sentiu os primeiros sintomas da malária"
+
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:93
+msgid "symptom_year"
+msgstr "ano_do_sintoma"
+
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:95
+msgid "Year in which the patient felt the first symptoms of malaria"
+msgstr "Ano em que o paciente sentiu os primeiros sintomas da malária"
+
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:97
+msgid "exam_month"
+msgstr "mês_da_prova"
+
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:99
+msgid "Month in which the examination was performed"
+msgstr "Mês em que o exame foi realizado"
+
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:101
+msgid "exam_year"
+msgstr "ano_do_exame"
+
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:103
+msgid "Year in which the examination was performed"
+msgstr "Ano em que o exame foi realizado"
+
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:105
+msgid "treatment_month"
+msgstr "mês_do_tratamento"
+
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:107
+msgid "Month in which the treatment started"
+msgstr "Mês em que o tratamento teve início"
+
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:109
+msgid "treatment_year"
+msgstr "ano_do_tratamento"
+
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:111
+msgid "Year in which the treatment started"
+msgstr "Ano em que o tratamento teve início"
+
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:113
+msgid "migration"
+msgstr "migração"
+
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:115
+msgid "Health region of residence different than that of notification"
+msgstr "Região de saúde de residência diferente daquela da notificação"
+
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:117
+msgid "autochthonous_case"
+msgstr "caso_autóctone"
+
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:119
+msgid "Health region of infection identical to that of residence"
+msgstr "Região sanitária da infecção é a mesma da residência"
+
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:121
+msgid "exam_result"
+msgstr "resultado_da_prova"
+
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:123
+msgid "Result of examination"
+msgstr "Resultado do exame"
+
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:125
+msgid "detection_type"
+msgstr "tipo_de_detecção"
+
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:127
+msgid "Type of detection"
+msgstr "Tipo de detecção"
+
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:129
+msgid "exam_type"
+msgstr "tipo_de_prova"
+
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:131
+msgid "Type of examination"
+msgstr "Tipo de exame"
+
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:133
+msgid "symptom"
+msgstr "sintoma"
+
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:135
+msgid "Indicates if the patient felt a symptom"
+msgstr "Indica se o paciente sentiu algum sintoma"
+
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:137
+msgid "hemiparasite"
+msgstr "hemiparasita"
+
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:139
+msgid "The result of the examination for other hemiparasites"
+msgstr "O resultado do exame para outros hemiparasitas"
+
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:141
+msgid "previous_treatment"
+msgstr "tratamento_anterior"
+
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:143
+msgid "Previous treatment for P. vivax or P.falciparum"
+msgstr "Tratamento prévio para P. vivax ou P. falciparum"
+
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:145
+msgid "occupation"
+msgstr "ocupação"
+
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:147
+msgid "Main activity in the last 15 days"
+msgstr "Atividade principal nos últimos 15 dias"
+
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:149
+msgid "education_level"
+msgstr "nível_de_escolaridade"
+
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:151
+msgid "Level of education of the patient"
+msgstr "Nível de escolaridade do paciente"
+
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:153
+#: ../../../src/amazonasdatahub/documentations/srl_muni.md:32
+msgid "age"
+msgstr "idade"
+
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:155
+msgid "Interval of the age of the patient"
+msgstr "Faixa etária do paciente"
+
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:157
+msgid "race"
+msgstr "corrida"
+
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:159
+msgid "Race/color of the patient"
+msgstr "Raça/cor do paciente"
+
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:163
+msgid "Gender of the patient"
+msgstr "Sexo do paciente"
+
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:165
+msgid "pregnancy"
+msgstr "gravidez"
+
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:167
+msgid "Indicates pregnancy and the gestational age"
+msgstr "Indica gravidez e a idade gestacional"
+
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:169
+msgid "crosses"
+msgstr "cruzes"
+
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:171
+msgid "Indicates the amount of parasitemia in crosses"
+msgstr "Indica o nível de parasitemia nos cruzamentos"
+
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:173
+msgid "cvl_case"
+msgstr "cvl_case"
+
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:175
+msgid "Indicates the existence of cases of canine visceral leishmaniasis"
+msgstr "Indica a existência de casos de leishmaniose visceral canina"
+
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:177
+msgid "scheme"
+msgstr "esquema"
+
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:179
+msgid "Indicates the treatment scheme employed"
+msgstr "Indica o esquema de tratamento utilizado"
+
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:181
+msgid "qty_parasites"
+msgstr "qty_parasitas"
+
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:183
+msgid "Indicates the number of parasites per mm^3"
+msgstr "Indica o número de parasitas por mm³"
+
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:191
+msgid "https://www.synapse.org/Synapse:syn21552203/files"
+msgstr "https://www.synapse.org/Synapse:syn21552203/files"
+
+#: ../../../src/amazonasdatahub/documentations/prf_amazonas.md:6
+msgid "prf_amazonas"
+msgstr "prf_amazonas"
+
+#: ../../../src/amazonasdatahub/documentations/prf_amazonas.md:8
+msgid ""
+"Traffic accident data from Amazonas recorded by Federal Highway Police (PRF)"
+" in 2025"
+msgstr ""
+"Dados sobre acidentes de trânsito no Amazonas registrados pela Polícia "
+"Rodoviária Federal (PRF) em 2025"
+
+#: ../../../src/amazonasdatahub/documentations/prf_amazonas.md:12
+msgid "Traffic accident data from Amazonas 2025"
+msgstr "Dados sobre acidentes de trânsito do Amazonas 2025"
+
+#: ../../../src/amazonasdatahub/documentations/prf_amazonas.md:22
+msgid "‘prf_amazonas’ A data frame with 116 rows and 30 variables:"
+msgstr "‘prf_amazonas’ Um data frame com 116 linhas e 30 variáveis:"
+
+#: ../../../src/amazonasdatahub/documentations/prf_amazonas.md:24
+msgid "id"
+msgstr "id"
+
+#: ../../../src/amazonasdatahub/documentations/prf_amazonas.md:26
+msgid "Record ID"
+msgstr "ID do registro"
+
+#: ../../../src/amazonasdatahub/documentations/prf_amazonas.md:28
+msgid "date"
+msgstr "data"
+
+#: ../../../src/amazonasdatahub/documentations/prf_amazonas.md:30
+msgid "Date of the record - yyyy-mm-dd"
+msgstr "Data do registro - aaaa-mm-dd"
+
+#: ../../../src/amazonasdatahub/documentations/prf_amazonas.md:32
+msgid "days_of_week"
+msgstr "dias_da_semana"
+
+#: ../../../src/amazonasdatahub/documentations/prf_amazonas.md:34
+msgid "Day of the week"
+msgstr "Dia da semana"
+
+#: ../../../src/amazonasdatahub/documentations/prf_amazonas.md:36
+msgid "time"
+msgstr "tempo"
+
+#: ../../../src/amazonasdatahub/documentations/prf_amazonas.md:38
+msgid "Hour of the record"
+msgstr "A hora do recorde"
+
+#: ../../../src/amazonasdatahub/documentations/prf_amazonas.md:40
+msgid "federative_unit"
+msgstr "unidade_federativa"
+
+#: ../../../src/amazonasdatahub/documentations/prf_amazonas.md:42
+msgid "Federative unit (UF)"
+msgstr "Unidade federativa (UF)"
+
+#: ../../../src/amazonasdatahub/documentations/prf_amazonas.md:44
+msgid "br"
+msgstr "br"
+
+#: ../../../src/amazonasdatahub/documentations/prf_amazonas.md:46
+msgid "Federal Highway"
+msgstr "Rodovia Federal"
+
+#: ../../../src/amazonasdatahub/documentations/prf_amazonas.md:48
+msgid "km"
+msgstr "km"
+
+#: ../../../src/amazonasdatahub/documentations/prf_amazonas.md:50
+msgid "Kilometer of BR"
+msgstr "Quilômetro da BR"
+
+#: ../../../src/amazonasdatahub/documentations/prf_amazonas.md:56
+msgid "accident_cause"
+msgstr "causa_do_acidente"
+
+#: ../../../src/amazonasdatahub/documentations/prf_amazonas.md:58
+msgid "Accident cause"
+msgstr "Causa do acidente"
+
+#: ../../../src/amazonasdatahub/documentations/prf_amazonas.md:60
+msgid "accident_type"
+msgstr "tipo_de_acidente"
+
+#: ../../../src/amazonasdatahub/documentations/prf_amazonas.md:62
+msgid "Accident type"
+msgstr "Tipo de acidente"
+
+#: ../../../src/amazonasdatahub/documentations/prf_amazonas.md:64
+msgid "accident_classification"
+msgstr "classificação_de_acidentes"
+
+#: ../../../src/amazonasdatahub/documentations/prf_amazonas.md:66
+msgid ""
+"Accident classification: victims, no victims, unharmed victims, fatal "
+"victims"
+msgstr ""
+"Classificação do acidente: vítimas, sem vítimas, vítimas ilesas, vítimas "
+"fatais"
+
+#: ../../../src/amazonasdatahub/documentations/prf_amazonas.md:68
+msgid "road_direction"
+msgstr "direção_da_estrada"
+
+#: ../../../src/amazonasdatahub/documentations/prf_amazonas.md:70
+msgid "Road direction"
+msgstr "Sentido da via"
+
+#: ../../../src/amazonasdatahub/documentations/prf_amazonas.md:72
+msgid "weather"
+msgstr "clima"
+
+#: ../../../src/amazonasdatahub/documentations/prf_amazonas.md:74
+msgid "Weather conditions at the time of the accident"
+msgstr "Condições meteorológicas no momento do acidente"
+
+#: ../../../src/amazonasdatahub/documentations/prf_amazonas.md:76
+msgid "track_type"
+msgstr "tipo_de_pista"
+
+#: ../../../src/amazonasdatahub/documentations/prf_amazonas.md:78
+msgid "Track type: Simples, Múltipla ou Dupla"
+msgstr "Tipo de pista: Simples, Múltipla ou Dupla"
+
+#: ../../../src/amazonasdatahub/documentations/prf_amazonas.md:80
+msgid "track_layout"
+msgstr "traçado da pista"
+
+#: ../../../src/amazonasdatahub/documentations/prf_amazonas.md:82
+msgid "Track layout"
+msgstr "Traçado da pista"
+
+#: ../../../src/amazonasdatahub/documentations/prf_amazonas.md:84
+msgid "land_use"
+msgstr "uso_do_solo"
+
+#: ../../../src/amazonasdatahub/documentations/prf_amazonas.md:86
+msgid "Land use"
+msgstr "Uso do solo"
+
+#: ../../../src/amazonasdatahub/documentations/prf_amazonas.md:88
+msgid "people"
+msgstr "pessoas"
+
+#: ../../../src/amazonasdatahub/documentations/prf_amazonas.md:90
+msgid "People involved in the accident"
+msgstr "Pessoas envolvidas no acidente"
+
+#: ../../../src/amazonasdatahub/documentations/prf_amazonas.md:92
+msgid "deceased"
+msgstr "falecido"
+
+#: ../../../src/amazonasdatahub/documentations/prf_amazonas.md:94
+msgid "Death toll"
+msgstr "Número de mortos"
+
+#: ../../../src/amazonasdatahub/documentations/prf_amazonas.md:96
+msgid "minor_injuries"
+msgstr "lesões leves"
+
+#: ../../../src/amazonasdatahub/documentations/prf_amazonas.md:98
+msgid "Number of victims with minor injuries"
+msgstr "Número de vítimas com ferimentos leves"
+
+#: ../../../src/amazonasdatahub/documentations/prf_amazonas.md:100
+msgid "serious_injuries"
+msgstr "lesões_graves"
+
+#: ../../../src/amazonasdatahub/documentations/prf_amazonas.md:102
+msgid "Number of victims with serious injuries"
+msgstr "Número de vítimas com ferimentos graves"
+
+#: ../../../src/amazonasdatahub/documentations/prf_amazonas.md:104
+msgid "unharmed"
+msgstr "ileso"
+
+#: ../../../src/amazonasdatahub/documentations/prf_amazonas.md:106
+msgid "Number of unharmed victims"
+msgstr "Número de vítimas ilesas"
+
+#: ../../../src/amazonasdatahub/documentations/prf_amazonas.md:108
+msgid "ignored"
+msgstr "ignorado"
+
+#: ../../../src/amazonasdatahub/documentations/prf_amazonas.md:110
+msgid "Ignored"
+msgstr "Ignorado"
+
+#: ../../../src/amazonasdatahub/documentations/prf_amazonas.md:112
+msgid "harmed"
+msgstr "prejudicado"
+
+#: ../../../src/amazonasdatahub/documentations/prf_amazonas.md:114
+msgid "Number of harmed victims"
+msgstr "Número de vítimas feridas"
+
+#: ../../../src/amazonasdatahub/documentations/prf_amazonas.md:116
+msgid "latitude"
+msgstr "latitude"
+
+#: ../../../src/amazonasdatahub/documentations/prf_amazonas.md:118
+msgid "Latitude"
+msgstr "Latitude"
+
+#: ../../../src/amazonasdatahub/documentations/prf_amazonas.md:120
+msgid "longitude"
+msgstr "longitude"
+
+#: ../../../src/amazonasdatahub/documentations/prf_amazonas.md:122
+msgid "Longitude"
+msgstr "Longitude"
+
+#: ../../../src/amazonasdatahub/documentations/prf_amazonas.md:124
+msgid "regional"
+msgstr "regional"
+
+#: ../../../src/amazonasdatahub/documentations/prf_amazonas.md:126
+msgid "Superintendency of the Federal Highway Police of Brazil"
+msgstr "Superintendência da Polícia Rodoviária Federal do Brasil"
+
+#: ../../../src/amazonasdatahub/documentations/prf_amazonas.md:128
+msgid "police_station"
+msgstr "delegacia"
+
+#: ../../../src/amazonasdatahub/documentations/prf_amazonas.md:130
+msgid "Police station where the report was filed"
+msgstr "Delegacia onde a ocorrência foi registrada"
+
+#: ../../../src/amazonasdatahub/documentations/prf_amazonas.md:132
+msgid "operating_unit"
+msgstr "unidade_operacional"
+
+#: ../../../src/amazonasdatahub/documentations/prf_amazonas.md:134
+msgid "Operating unit and police station"
+msgstr "Unidade operacional e delegacia de polícia"
+
+#: ../../../src/amazonasdatahub/documentations/prf_amazonas.md:138
+msgid "The data source will be provided soon"
+msgstr "A fonte de dados será disponibilizada em breve"
+
+#: ../../../src/amazonasdatahub/documentations/rionegro_amazonas.md:6
+msgid "rionegro_amazonas"
+msgstr "rionegro_amazonas"
+
+#: ../../../src/amazonasdatahub/documentations/rionegro_amazonas.md:8
+msgid "A dataset of the Rio Negro River (Amazonas) level from 2003 to 2023."
+msgstr ""
+"Um conjunto de dados sobre o nível do rio Rio Negro (Amazonas) de 2003 a "
+"2023."
+
+#: ../../../src/amazonasdatahub/documentations/rionegro_amazonas.md:12
+msgid ""
+"This dataset contains data of the Rio Negro River level in the state of "
+"Amazonas (Brazil), compiling information on years, semesters and days, along"
+" with the river's level in meters and whether it filled or dropped (in "
+"centimeters)."
+msgstr ""
+"Este conjunto de dados contém informações sobre o nível do rio Rio Negro, no"
+" estado do Amazonas (Brasil), compilando dados por ano, semestre e dia, além"
+" do nível do rio em metros e se houve subida ou descida (em centímetros)."
+
+#: ../../../src/amazonasdatahub/documentations/rionegro_amazonas.md:22
+msgid "‘rionegro_amazonas’ A data frame with 8003 rows and 7 columns:"
+msgstr "‘rionegro_amazonas’ Um data frame com 8.003 linhas e 7 colunas:"
+
+#: ../../../src/amazonasdatahub/documentations/rionegro_amazonas.md:24
+msgid "level_m"
+msgstr "level_m"
+
+#: ../../../src/amazonasdatahub/documentations/rionegro_amazonas.md:26
+msgid "River level in meters"
+msgstr "Nível do rio em metros"
+
+#: ../../../src/amazonasdatahub/documentations/rionegro_amazonas.md:28
+msgid "increase_decrease_cm"
+msgstr "aumento_diminuição_cm"
+
+#: ../../../src/amazonasdatahub/documentations/rionegro_amazonas.md:30
+msgid "Wheter the river level filled or dropped (in centimeters)"
+msgstr "Se o nível do rio subiu ou baixou (em centímetros)"
+
+#: ../../../src/amazonasdatahub/documentations/rionegro_amazonas.md:32
+msgid "day"
+msgstr "dia"
+
+#: ../../../src/amazonasdatahub/documentations/rionegro_amazonas.md:34
+msgid "Measurement day"
+msgstr "Dia de medição"
+
+#: ../../../src/amazonasdatahub/documentations/rionegro_amazonas.md:38
+msgid "Measurement month"
+msgstr "Mês da medição"
+
+#: ../../../src/amazonasdatahub/documentations/rionegro_amazonas.md:42
+msgid "Measurement year"
+msgstr "Ano de medição"
+
+#: ../../../src/amazonasdatahub/documentations/rionegro_amazonas.md:44
+msgid "semester"
+msgstr "semestre"
+
+#: ../../../src/amazonasdatahub/documentations/rionegro_amazonas.md:46
+msgid "Measurement semester"
+msgstr "Semestre de medição"
+
+#: ../../../src/amazonasdatahub/documentations/rionegro_amazonas.md:50
+msgid "https://portodemanaus.com.br/nivel-do-rio-negro/"
+msgstr "https://portodemanaus.com.br/nivel-do-rio-negro/"
+
+#: ../../../src/amazonasdatahub/documentations/srl_muni.md:6
+msgid "srl_muni"
+msgstr "srl_muni"
+
+#: ../../../src/amazonasdatahub/documentations/srl_muni.md:8
+msgid ""
+"Physical literacy and reading performance of children in schools in "
+"Amazonas."
+msgstr ""
+"Alfabetização física e desempenho em leitura de crianças em escolas do "
+"Amazonas."
+
+#: ../../../src/amazonasdatahub/documentations/srl_muni.md:12
+msgid ""
+"This is a dataset from an association, cross-sectional, quantitative study "
+"carried out with Amazonian schoolchildren (n=100; aged between 10 and 13 "
+"years) from 3 public schools in the municipality of Borba (Amazonas)."
+msgstr ""
+"Este é um conjunto de dados proveniente de um estudo associativo, "
+"transversal e quantitativo realizado com alunos da Amazônia (n = 100; com "
+"idades entre 10 e 13 anos) de três escolas públicas do município de Borba "
+"(Amazonas)."
+
+#: ../../../src/amazonasdatahub/documentations/srl_muni.md:22
+msgid "‘srl_muni’ A data frame with 100 rows and 17 columns:"
+msgstr "‘srl_muni’ Um data frame com 100 linhas e 17 colunas:"
+
+#: ../../../src/amazonasdatahub/documentations/srl_muni.md:24
+msgid "school"
+msgstr "escola"
+
+#: ../../../src/amazonasdatahub/documentations/srl_muni.md:26
+msgid "School of observation"
+msgstr "Escola de observação"
+
+#: ../../../src/amazonasdatahub/documentations/srl_muni.md:28
+msgid "sex"
+msgstr "sexo"
+
+#: ../../../src/amazonasdatahub/documentations/srl_muni.md:30
+msgid "Sex - 1 for Masculine and 2 for Feminine"
+msgstr "Sexo - 1 para masculino e 2 para feminino"
+
+#: ../../../src/amazonasdatahub/documentations/srl_muni.md:34
+msgid "Age (in years)"
+msgstr "Idade (em anos)"
+
+#: ../../../src/amazonasdatahub/documentations/srl_muni.md:36
+msgid "weight_kg"
+msgstr "peso_kg"
+
+#: ../../../src/amazonasdatahub/documentations/srl_muni.md:38
+msgid "Weight in kilograms (kg)"
+msgstr "Peso em quilogramas (kg)"
+
+#: ../../../src/amazonasdatahub/documentations/srl_muni.md:40
+msgid "height_m"
+msgstr "altura_m"
+
+#: ../../../src/amazonasdatahub/documentations/srl_muni.md:42
+msgid "Height in meters (m)"
+msgstr "Altura em metros (m)"
+
+#: ../../../src/amazonasdatahub/documentations/srl_muni.md:44
+msgid "bmi"
+msgstr "IMC"
+
+#: ../../../src/amazonasdatahub/documentations/srl_muni.md:46
+msgid "Body Mass Index (BMI)"
+msgstr "Índice de Massa Corporal (IMC)"
+
+#: ../../../src/amazonasdatahub/documentations/srl_muni.md:48
+msgid "bmi_status"
+msgstr "bmi_status"
+
+#: ../../../src/amazonasdatahub/documentations/srl_muni.md:50
+msgid "Body Mass Index Status - A categorical description of the BMI."
+msgstr ""
+"Classificação do Índice de Massa Corporal (IMC) — Uma descrição categórica "
+"do IMC."
+
+#: ../../../src/amazonasdatahub/documentations/srl_muni.md:52
+msgid "phv"
+msgstr "phv"
+
+#: ../../../src/amazonasdatahub/documentations/srl_muni.md:54
+msgid ""
+"Peak Height Velocity (PHV) is a continuous variable, measured by age (in "
+"years) relative to the peak height in the period where maximum rate of "
+"growth occurs and this is an indication of maturity."
+msgstr ""
+"A Velocidade de Crescimento Máxima (PHV) é uma variável contínua, medida "
+"pela idade (em anos) em relação à altura máxima no período em que ocorre a "
+"taxa máxima de crescimento, sendo um indicador de maturidade."
+
+#: ../../../src/amazonasdatahub/documentations/srl_muni.md:56
+msgid "phv_state"
+msgstr "phv_state"
+
+#: ../../../src/amazonasdatahub/documentations/srl_muni.md:58
+msgid "Categorical description for Peak Height Velocity (PHV)."
+msgstr "Descrição categórica da Velocidade de Crescimento Máxima (PHV)."
+
+#: ../../../src/amazonasdatahub/documentations/srl_muni.md:60
+msgid "eses"
+msgstr "esses"
+
+#: ../../../src/amazonasdatahub/documentations/srl_muni.md:62
+msgid ""
+"Exercise Self-Efficacy Scale measures how confident the students are with "
+"regard to carrying out regular physical activities and exercise, measured by"
+" a psychometric scale."
+msgstr ""
+"A Escala de Autoeficácia no Exercício mede o grau de confiança dos alunos em"
+" relação à prática regular de atividades físicas e exercícios, avaliado por "
+"meio de uma escala psicométrica."
+
+#: ../../../src/amazonasdatahub/documentations/srl_muni.md:64
+msgid "pmc"
+msgstr "pmc"
+
+#: ../../../src/amazonasdatahub/documentations/srl_muni.md:66
+msgid ""
+"Perceived Motor Competence (PMC) assesses the child's self-perception "
+"regarding their ability to perform motor movements. Measured by a "
+"psychometric scale."
+msgstr ""
+"A Competência Motora Percebida (PMC) avalia a autopercepção da criança em "
+"relação à sua capacidade de realizar movimentos motores. É medida por meio "
+"de uma escala psicométrica."
+
+#: ../../../src/amazonasdatahub/documentations/srl_muni.md:68
+msgid "kupa"
+msgstr "kupa"
+
+#: ../../../src/amazonasdatahub/documentations/srl_muni.md:70
+msgid ""
+"Knowledge and Understanding of Physical Activity (KUPA) - Evaluates "
+"knowledge regarding the benefits, safety, and engagement in physical "
+"activity. Measured by scores obtained in objective questions."
+msgstr ""
+"Conhecimento e Compreensão sobre Atividade Física (KUPA) — Avalia o "
+"conhecimento sobre os benefícios, a segurança e a prática de atividade "
+"física. Medido pelas notas obtidas em questões objetivas."
+
+#: ../../../src/amazonasdatahub/documentations/srl_muni.md:72
+msgid "sb"
+msgstr "sb"
+
+#: ../../../src/amazonasdatahub/documentations/srl_muni.md:74
+msgid ""
+"Sedentary Behavior - Evalutes the exposition time to sedentary behaviors. "
+"Measured by psychometric scale."
+msgstr ""
+"Comportamento sedentário — Avalia o tempo de exposição a comportamentos "
+"sedentários. Medido por meio de uma escala psicométrica."
+
+#: ../../../src/amazonasdatahub/documentations/srl_muni.md:76
+msgid "pa"
+msgstr "pa"
+
+#: ../../../src/amazonasdatahub/documentations/srl_muni.md:78
+msgid ""
+"Physical Activity (PA) - Level of physical activity in children, based on "
+"the frequency and duration of routine daily activities. Measured by score on"
+" the physical activity frequency questions."
+msgstr ""
+"Atividade Física (AF) — Nível de atividade física em crianças, com base na "
+"frequência e na duração das atividades diárias de rotina. Medido pela "
+"pontuação obtida nas perguntas sobre a frequência da atividade física."
+
+#: ../../../src/amazonasdatahub/documentations/srl_muni.md:80
+msgid "mc"
+msgstr "mc"
+
+#: ../../../src/amazonasdatahub/documentations/srl_muni.md:82
+msgid ""
+"Motor Competence - Supine To Stand (in seconds) - Measures the time (in "
+"seconds) it takes for the child to stand up from the floor, from a supine "
+"position to a standing position."
+msgstr ""
+"Competência motora – Da posição supina à posição em pé (em segundos) – Mede "
+"o tempo (em segundos) que a criança leva para se levantar do chão, passando "
+"da posição supina para a posição em pé."
+
+#: ../../../src/amazonasdatahub/documentations/srl_muni.md:84
+msgid "tde"
+msgstr "tde"
+
+#: ../../../src/amazonasdatahub/documentations/srl_muni.md:86
+msgid ""
+"Total Score on the TDE test - Measures reading level based on time and "
+"accuracy in word reading."
+msgstr ""
+"Pontuação total no teste TDE — Avalia o nível de leitura com base no tempo e"
+" na precisão na leitura de palavras."
+
+#: ../../../src/amazonasdatahub/documentations/srl_muni.md:88
+msgid "tde_categorical"
+msgstr "tde_categórico"
+
+#: ../../../src/amazonasdatahub/documentations/srl_muni.md:90
+msgid "Categorical description of the TDE Score."
+msgstr "Descrição categórica do Índice TDE."
+
+#: ../../../src/amazonasdatahub/documentations/srl_muni.md:94
+msgid "https://tede.ufam.edu.br/handle/tede/10627"
+msgstr "https://tede.ufam.edu.br/handle/tede/10627"

@@ -1,0 +1,372 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2026, Nelson Geraldo Aquino de Carvalho
+# This file is distributed under the same license as the amazonasdatahub
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: amazonasdatahub\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-01 19:09+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: pt_BR <LL@li.org>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Generated-By: Babel 2.18.0\n"
+
+#: ../../index.md:5
+msgid "Home"
+msgstr "Página inicial"
+
+#: ../../../README.md:2
+msgid "amazonasdatahub"
+msgstr "amazonasdatahub"
+
+#: ../../../README.md:4
+msgid "![amazonasdatahub logo](assets/figures/logo_amazonasdatahub_small.png)"
+msgstr ""
+"![amazonasdatahub logotipo](assets/figures/logo_amazonasdatahub_small.png)"
+
+#: ../../../README.md:4
+msgid "amazonasdatahub logo"
+msgstr "amazonasdatahub logotipo"
+
+#: ../../../README.md:9
+msgid ""
+"The goal of `amazonasdatahub` is to aggregate databases from the State of "
+"Amazonas (AM), Brazil, for conducting studies and preparing educational "
+"materials, as well as to facilitate access to organized and processed data, "
+"thereby supporting research and teaching and enabling the application of "
+"statistical methods."
+msgstr ""
+"O objetivo do  `amazonasdatahub`é reunir bancos de dados do Estado do "
+"Amazonas (AM), Brasil, para a realização de estudos e a elaboração de "
+"materiais didáticos, bem como facilitar o acesso a dados organizados e "
+"processados, apoiando assim a pesquisa e o ensino e possibilitando a "
+"aplicação de métodos estatísticos."
+
+#: ../../../README.md:15
+msgid ""
+"Full documentation of both Python and R versions is available in the "
+"following languages/Documentação das versões em Python e R estão disponíveis"
+" nos seguintes idiomas:"
+msgstr ""
+"A documentação completa das versões em Python e R está disponível nos "
+"seguintes idiomas:"
+
+#: ../../../README.md:19
+msgid ""
+"[English "
+"documentation](https://onelsoncarvalho.github.io/amazonasdatahubsite/en)"
+msgstr ""
+"[Documentação](https://onelsoncarvalho.github.io/amazonasdatahubsite/en) em "
+"inglês]"
+
+#: ../../../README.md:21
+msgid ""
+"[🇧🇷 Documentação em Português "
+"(BR)](https://onelsoncarvalho.github.io/amazonasdatahubsite)"
+msgstr ""
+"[🇧🇷 Documentação em português "
+"(BR)](https://onelsoncarvalho.github.io/amazonasdatahubsite)"
+
+#: ../../../README.md:24
+msgid "Python only documentation:"
+msgstr "Documentação exclusiva para Python:"
+
+#: ../../../README.md:26
+msgid ""
+"[English documentation for Python "
+"version](https://onelsoncarvalho.github.io/amazonasdatahubpy)"
+msgstr ""
+"[Documentação em inglês para a "
+"versão](https://onelsoncarvalho.github.io/amazonasdatahubpy) do Python"
+
+#: ../../../README.md:28
+msgid ""
+"[🇧🇷 Documentação em Português (BR) para versão do "
+"Python](https://onelsoncarvalho.github.io/amazonasdatahubpy)"
+msgstr ""
+"[🇧🇷 Documentação em português (BR) para a versão do "
+"Python](https://onelsoncarvalho.github.io/amazonasdatahubpy)]"
+
+#: ../../../README.md:31
+msgid "Overview"
+msgstr "Visão geral"
+
+#: ../../../README.md:33
+msgid ""
+"This `amazonasdatahub` package provides databases from various types and "
+"sources, all of which concern the State of Amazonas."
+msgstr ""
+"Este pacote`amazonasdatahub` disponibiliza bancos de dados de diversos tipos"
+" e fontes, todos relacionados ao Estado do Amazonas."
+
+#: ../../../README.md:36
+msgid "List of available datasets:"
+msgstr "Lista de conjuntos de dados disponíveis:"
+
+#: ../../index.md:1
+msgid "Dataset"
+msgstr "Conjunto de dados"
+
+#: ../../index.md:1
+msgid "Area"
+msgstr "Área"
+
+#: ../../index.md:1
+msgid "Source"
+msgstr "Fonte"
+
+#: ../../index.md:1
+msgid "agriculture_amazonas"
+msgstr "agricultura_amazonas"
+
+#: ../../index.md:1
+msgid "Agriculture and Livestock"
+msgstr "Agricultura e Pecuária"
+
+#: ../../index.md:1
+msgid ""
+"Institute of Agricultural and Sustainable Forestry Development of the State "
+"of Amazonas - 2024"
+msgstr ""
+"Instituto de Desenvolvimento Agrícola e Florestal Sustentável do Estado do "
+"Amazonas - 2024"
+
+#: ../../index.md:1
+msgid "aids_amazonas"
+msgstr "aids_amazonas"
+
+#: ../../index.md:1
+msgid "Health"
+msgstr "Saúde"
+
+#: ../../index.md:1
+msgid ""
+"Department of HIV, AIDS, Tuberculosis, Viral Hepatitis, and Sexually "
+"Transmitted Infections, 2024"
+msgstr ""
+"Departamento de HIV, AIDS, Tuberculose, Hepatite Viral e Infecções "
+"Sexualmente Transmissíveis, 2024"
+
+#: ../../index.md:1
+msgid "gdp_amazonas"
+msgstr "pib_amazonas"
+
+#: ../../index.md:1
+msgid "Economy"
+msgstr "Economia"
+
+#: ../../index.md:1
+msgid ""
+"Scientific Journal of Applied Social and Clinical Science - TIME SERIES "
+"ANALYSIS FOR THE QUARTERLY GROSS DOMESTIC PRODUCT OF AMAZONAS"
+msgstr ""
+"Revista Científica de Ciências Sociais e Clínicas Aplicadas - ANÁLISE DE "
+"SÉRIES TEMPORAIS DO PRODUTO INTERNO BRUTO TRIMESTRAL DO ESTADO DO AMAZONAS"
+
+#: ../../index.md:1
+msgid "humidity_manaus"
+msgstr "umidade_manaus"
+
+#: ../../index.md:1
+msgid "Climate"
+msgstr "Clima"
+
+#: ../../index.md:1
+msgid ""
+"NASCIMENTO, Leonardo Brandão Freitas; LIMA, Max Sousa; DUCZMAL, Luiz H. "
+"P-min-stable regression models for time series with extreme values of "
+"limited range. Environmetrics, Issue 2, v. 36, 2025."
+msgstr ""
+"NASCIMENTO, Leonardo Brandão Freitas; LIMA, Max Sousa; DUCZMAL, Luiz H. "
+"Modelos de regressão P-min-estáveis para séries temporais com valores "
+"extremos de amplitude limitada. Environmetrics, Edição 2, v. 36, 2025."
+
+#: ../../index.md:1
+msgid "malaria_amazonas"
+msgstr "malária_amazonas"
+
+#: ../../index.md:1
+msgid ""
+"Lais Baroni, M. P. (2020). An Integrated Dataset of Malaria Notifications in"
+" the Legal Amazon (Dataset). Synapse. <https://doi.org/10.7303/SYN21552203>"
+msgstr ""
+"Lais Baroni, Deputada Federal (2020). Um conjunto de dados integrado de "
+"notificações de malária na Amazônia Legal (Conjunto de dados). Synapse. "
+"<https://doi.org/10.7303/SYN21552203>"
+
+#: ../../index.md:1
+msgid "prf_amazonas"
+msgstr "prf_amazonas"
+
+#: ../../index.md:1
+msgid "Road Safety"
+msgstr "Segurança no Trânsito"
+
+#: ../../index.md:1
+msgid ""
+"Brasil. Polícia Rodoviária Federal (PRF). Dados Abertos da PRF: Acidentes de"
+" Trânsito"
+msgstr ""
+"Brasil. Polícia Rodoviária Federal (PRF). Dados Abertos da PRF: Acidentes de"
+" Trânsito"
+
+#: ../../index.md:1
+msgid "rionegro_amazonas"
+msgstr "rionegro_amazonas"
+
+#: ../../index.md:1
+msgid "Environment"
+msgstr "Meio ambiente"
+
+#: ../../index.md:1
+msgid "Porto de Manaus. Nível do Rio Negro"
+msgstr "Porto de Manaus. Nível do Rio Negro"
+
+#: ../../index.md:1
+msgid "srl_muni"
+msgstr "srl_muni"
+
+#: ../../index.md:1
+msgid "Education"
+msgstr "Educação"
+
+#: ../../index.md:1
+msgid ""
+"ALMEIDA, Thiago da Cruz de. Physical Literacy e desempenho em leitura de "
+"escolares amazônicos: um estudo de associação. 2024. 104 f. Dissertação "
+"(Mestrado em Educação) - Universidade Federal do Amazonas, Manaus, 2024."
+msgstr ""
+"ALMEIDA, Thiago da Cruz de. Alfabetização física e desempenho em leitura de "
+"alunos da Amazônia: um estudo de associação. 2024. 104 f. Dissertação "
+"(Mestrado em Educação) – Universidade Federal do Amazonas, Manaus, 2024."
+
+#: ../../../README.md:49
+msgid "Installation"
+msgstr "Instalação"
+
+#: ../../../README.md:51
+msgid ""
+"To install `amazonasdatahub`, you need the following tools installed on your"
+" computer or development environment:"
+msgstr ""
+"Para instalar`amazonasdatahub`, é necessário ter as seguintes ferramentas "
+"instaladas no seu computador ou ambiente de desenvolvimento:"
+
+#: ../../../README.md:53
+msgid "Python 3.14.3"
+msgstr "Python 3.14.3"
+
+#: ../../../README.md:54
+msgid "`pip` (package manager)"
+msgstr "`pip` (gerenciador de pacotes)"
+
+#: ../../../README.md:55
+msgid "Git"
+msgstr "Git"
+
+#: ../../../README.md:57
+msgid ""
+"You can install the development version of `amazonasdatahub` using `git "
+"clone` to clone the remote repository into your local environment and `pip` "
+"to install it:"
+msgstr ""
+"Você pode instalar a versão de desenvolvimento do  usando`amazonasdatahub`  "
+"`git clone`para clonar o repositório remoto em seu ambiente local e  "
+"`pip`para instalá-la:"
+
+#: ../../../README.md:67
+msgid "Usage and Examples"
+msgstr "Uso e exemplos"
+
+#: ../../../README.md:69
+msgid "Loading `amazonasdatahub`"
+msgstr "Carregando `amazonasdatahub`"
+
+#: ../../../README.md:71
+msgid ""
+"Use `import` and `from` to require the functions from `datasets` module of "
+"`amazonasdatahub`:"
+msgstr ""
+"Use  e`import`  `from`para importar as funções do módulo`datasets`  de "
+"`amazonasdatahub`:"
+
+#: ../../../README.md:77
+msgid ""
+"The dataset name should be provided as argument of `get_dataset(dataset: "
+"str)` function."
+msgstr ""
+"O nome do conjunto de dados deve ser fornecido como argumento da "
+"função`get_dataset(dataset: str)`."
+
+#: ../../../README.md:85
+msgid "Get dataset documentation"
+msgstr "Obter a documentação do conjunto de dados"
+
+#: ../../../README.md:87
+msgid ""
+"Each dataset has its own documentation to provide the user information about"
+" the dataset variables."
+msgstr ""
+"Cada conjunto de dados possui sua própria documentação para fornecer ao "
+"usuário informações sobre as variáveis do conjunto de dados."
+
+#: ../../../README.md:89
+msgid "Use `import` and `from` to require the functions from `docs` module:"
+msgstr "Use  e`import`  `from`para importar as funções do módulo`docs` :"
+
+#: ../../../README.md:95
+msgid ""
+"The dataset name should be provided as argument of `get_docs(dataset: str)` "
+"function."
+msgstr ""
+"O nome do conjunto de dados deve ser fornecido como argumento da "
+"função`get_docs(dataset: str)`."
+
+#: ../../../README.md:173
+msgid "Contributing"
+msgstr "Contribuir"
+
+#: ../../../README.md:175
+msgid ""
+"Interested in contributing? Check out the contributing guidelines. Please "
+"note that this project is released with a Code of Conduct. By contributing "
+"to this project, you agree to abide by its terms."
+msgstr ""
+"Tem interesse em contribuir? Confira as diretrizes para contribuição. "
+"Observe que este projeto é divulgado com um Código de Conduta. Ao contribuir"
+" para este projeto, você concorda em respeitar seus termos."
+
+#: ../../../README.md:177
+msgid "License"
+msgstr "Licença"
+
+#: ../../../README.md:179
+msgid ""
+"`amazonasdatahub` was created by Nelson Geraldo Aquino de Carvalho. It is "
+"licensed under the terms of the MIT license."
+msgstr ""
+"`amazonasdatahub` foi criado por Nelson Geraldo Aquino de Carvalho. Está "
+"licenciado nos termos da licença MIT."
+
+#: ../../../README.md:185
+msgid "Citation"
+msgstr "Referência"
+
+#: ../../../README.md:187
+msgid ""
+"CARVALHO, Nelson Geraldo Aquino de; NASCIMENTO, Leonardo Brandão Freitas do."
+" **amazonasdatahub**. 2026. "
+"<https://onelsoncarvalho.github.io/amazonasdatahubpy>."
+msgstr ""
+"CARVALHO, Nelson Geraldo Aquino de; NASCIMENTO, Leonardo Brandão Freitas do."
+" amazonasdatahub****. 2026. "
+"<https://onelsoncarvalho.github.io/amazonasdatahubpy>."

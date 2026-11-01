@@ -1,0 +1,211 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2026, Nelson Geraldo Aquino de Carvalho
+# This file is distributed under the same license as the amazonasdatahub
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: amazonasdatahub\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-01 19:09+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: pt_BR <LL@li.org>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Generated-By: Babel 2.18.0\n"
+
+#: ../../../CONDUCT.md:2
+msgid "Code of Conduct"
+msgstr "Código de Conduta"
+
+#: ../../../CONDUCT.md:4
+msgid "Our Pledge"
+msgstr "Nosso Compromisso"
+
+#: ../../../CONDUCT.md:6
+msgid ""
+"In the interest of fostering an open and welcoming environment, we as "
+"contributors and maintainers pledge to making participation in our project "
+"and our community a harassment-free experience for everyone, regardless of "
+"age, body size, disability, ethnicity, gender identity and expression, level"
+" of experience, nationality, personal appearance, race, religion, or sexual "
+"identity and orientation."
+msgstr ""
+"Com o objetivo de promover um ambiente aberto e acolhedor, nós, como "
+"colaboradores e mantenedores, nos comprometemos a tornar a participação em "
+"nosso projeto e em nossa comunidade uma experiência livre de assédio para "
+"todos, independentemente de idade, tamanho corporal, deficiência, etnia, "
+"identidade e expressão de gênero, nível de experiência, nacionalidade, "
+"aparência pessoal, raça, religião ou identidade e orientação sexual."
+
+#: ../../../CONDUCT.md:8
+msgid "Our Standards"
+msgstr "Nossas normas"
+
+#: ../../../CONDUCT.md:10
+msgid ""
+"Examples of behavior that contributes to creating a positive environment "
+"include:"
+msgstr ""
+"Exemplos de comportamentos que contribuem para a criação de um ambiente "
+"positivo incluem:"
+
+#: ../../../CONDUCT.md:12
+msgid "Using welcoming and inclusive language"
+msgstr "Usar uma linguagem acolhedora e inclusiva"
+
+#: ../../../CONDUCT.md:13
+msgid "Being respectful of differing viewpoints and experiences"
+msgstr "Respeitar pontos de vista e experiências diferentes"
+
+#: ../../../CONDUCT.md:14
+msgid "Gracefully accepting constructive criticism"
+msgstr "Aceitar com elegância as críticas construtivas"
+
+#: ../../../CONDUCT.md:15
+msgid "Focusing on what is best for the community"
+msgstr "Com foco no que é melhor para a comunidade"
+
+#: ../../../CONDUCT.md:16
+msgid "Showing empathy towards other community members"
+msgstr "Demonstrar empatia para com os demais membros da comunidade"
+
+#: ../../../CONDUCT.md:18
+msgid "Examples of unacceptable behavior by participants include:"
+msgstr ""
+"Exemplos de comportamentos inaceitáveis por parte dos participantes incluem:"
+
+#: ../../../CONDUCT.md:20
+msgid ""
+"The use of sexualized language or imagery and unwelcome sexual attention or "
+"advances"
+msgstr ""
+"O uso de linguagem ou imagens sexualizadas e atenção ou investidas sexuais "
+"indesejadas"
+
+#: ../../../CONDUCT.md:21
+msgid ""
+"Trolling, insulting/derogatory comments, and personal or political attacks"
+msgstr ""
+"Provocações, comentários ofensivos ou depreciativos e ataques pessoais ou "
+"políticos"
+
+#: ../../../CONDUCT.md:22
+msgid "Public or private harassment"
+msgstr "Assédio em público ou em privado"
+
+#: ../../../CONDUCT.md:23
+msgid ""
+"Publishing others' private information, such as a physical or electronic "
+"address, without explicit permission"
+msgstr ""
+"Divulgar informações privadas de terceiros, como endereços físicos ou "
+"eletrônicos, sem permissão explícita"
+
+#: ../../../CONDUCT.md:24
+msgid ""
+"Other conduct which could reasonably be considered inappropriate in a "
+"professional setting"
+msgstr ""
+"Outras condutas que possam ser razoavelmente consideradas inadequadas em um "
+"ambiente profissional"
+
+#: ../../../CONDUCT.md:26
+msgid "Our Responsibilities"
+msgstr "Nossas responsabilidades"
+
+#: ../../../CONDUCT.md:28
+msgid ""
+"Project maintainers are responsible for clarifying the standards of "
+"acceptable behavior and are expected to take appropriate and fair corrective"
+" action in response to any instances of unacceptable behavior."
+msgstr ""
+"Os mantenedores do projeto são responsáveis por esclarecer as normas de "
+"comportamento aceitável e devem tomar medidas corretivas adequadas e justas "
+"em resposta a quaisquer casos de comportamento inaceitável."
+
+#: ../../../CONDUCT.md:30
+msgid ""
+"Project maintainers have the right and responsibility to remove, edit, or "
+"reject comments, commits, code, wiki edits, issues, and other contributions "
+"that are not aligned to this Code of Conduct, or to ban temporarily or "
+"permanently any contributor for other behaviors that they deem "
+"inappropriate, threatening, offensive, or harmful."
+msgstr ""
+"Os mantenedores do projeto têm o direito e a responsabilidade de remover, "
+"editar ou rejeitar comentários, commits, código, edições na wiki, issues e "
+"outras contribuições que não estejam em conformidade com este Código de "
+"Conduta, bem como de banir, temporária ou permanentemente, qualquer "
+"colaborador por outros comportamentos que considerem inadequados, "
+"ameaçadores, ofensivos ou prejudiciais."
+
+#: ../../../CONDUCT.md:32
+msgid "Scope"
+msgstr "Escopo"
+
+#: ../../../CONDUCT.md:34
+msgid ""
+"This Code of Conduct applies both within project spaces and in public spaces"
+" when an individual is representing the project or its community. Examples "
+"of representing a project or community include using an official project "
+"e-mail address, posting via an official social media account, or acting as "
+"an appointed representative at an online or offline event. Representation of"
+" a project may be further defined and clarified by project maintainers."
+msgstr ""
+"Este Código de Conduta se aplica tanto nos espaços do projeto quanto em "
+"espaços públicos, quando um indivíduo estiver representando o projeto ou sua"
+" comunidade. Exemplos de representação de um projeto ou comunidade incluem o"
+" uso de um endereço de e-mail oficial do projeto, a publicação por meio de "
+"uma conta oficial nas redes sociais ou atuar como representante designado em"
+" um evento online ou presencial. A representação de um projeto pode ser "
+"definida e esclarecida mais detalhadamente pelos mantenedores do projeto."
+
+#: ../../../CONDUCT.md:36
+msgid "Enforcement"
+msgstr "Aplicação da lei"
+
+#: ../../../CONDUCT.md:38
+msgid ""
+"Instances of abusive, harassing, or otherwise unacceptable behavior may be "
+"reported by contacting the project team. The project team will review and "
+"investigate all complaints, and will respond in a way that it deems "
+"appropriate to the circumstances. The project team is obligated to maintain "
+"confidentiality with regard to the reporter of an incident. Further details "
+"of specific enforcement policies may be posted separately."
+msgstr ""
+"Casos de comportamento abusivo, de assédio ou de qualquer outra forma "
+"inaceitável podem ser denunciados entrando em contato com a equipe do "
+"projeto. A equipe do projeto analisará e investigará todas as denúncias e "
+"responderá da maneira que julgar adequada às circunstâncias. A equipe do "
+"projeto é obrigada a manter a confidencialidade em relação à pessoa que "
+"denunciar um incidente. Mais detalhes sobre políticas específicas de "
+"aplicação podem ser publicados separadamente."
+
+#: ../../../CONDUCT.md:40
+msgid ""
+"Project maintainers who do not follow or enforce the Code of Conduct in good"
+" faith may face temporary or permanent repercussions as determined by other "
+"members of the project's leadership."
+msgstr ""
+"Os mantenedores de projetos que não seguirem ou não fizerem cumprir o Código"
+" de Conduta de boa-fé poderão enfrentar repercussões temporárias ou "
+"permanentes, conforme determinado por outros membros da liderança do "
+"projeto."
+
+#: ../../../CONDUCT.md:42
+msgid "Attribution"
+msgstr "Atribuição"
+
+#: ../../../CONDUCT.md:44
+msgid ""
+"This Code of Conduct is adapted from the [Contributor Covenant "
+"homepage](http://contributor-covenant.org/version/1/4), version 1.4."
+msgstr ""
+"Este Código de Conduta foi adaptado da [página inicial do Contributor "
+"Covenant](http://contributor-covenant.org/version/1/4), versão 1.4."

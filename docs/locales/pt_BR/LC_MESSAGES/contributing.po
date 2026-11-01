@@ -1,0 +1,213 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2026, Nelson Geraldo Aquino de Carvalho
+# This file is distributed under the same license as the amazonasdatahub
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: amazonasdatahub\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-01 19:09+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: pt_BR <LL@li.org>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Generated-By: Babel 2.18.0\n"
+
+#: ../../../CONTRIBUTING.md:2
+msgid "Contributing"
+msgstr "Contribuir"
+
+#: ../../../CONTRIBUTING.md:4
+msgid ""
+"Contributions are welcome, and they are greatly appreciated! Every little "
+"bit helps, and credit will always be given."
+msgstr ""
+"Contribuições são bem-vindas e muito apreciadas! Toda ajuda é importante, e "
+"o crédito será sempre dado ao autor."
+
+#: ../../../CONTRIBUTING.md:7
+msgid "Types of Contributions"
+msgstr "Tipos de contribuições"
+
+#: ../../../CONTRIBUTING.md:9
+msgid "Report Bugs"
+msgstr "Relatar erros"
+
+#: ../../../CONTRIBUTING.md:11
+msgid "If you are reporting a bug, please include:"
+msgstr "Se você estiver relatando um bug, inclua:"
+
+#: ../../../CONTRIBUTING.md:13
+msgid "Your operating system name and version."
+msgstr "Nome e versão do seu sistema operacional."
+
+#: ../../../CONTRIBUTING.md:14
+msgid ""
+"Any details about your local setup that might be helpful in troubleshooting."
+msgstr ""
+"Quaisquer detalhes sobre sua configuração local que possam ser úteis na "
+"solução de problemas."
+
+#: ../../../CONTRIBUTING.md:15
+msgid "Detailed steps to reproduce the bug."
+msgstr "Passos detalhados para reproduzir o bug."
+
+#: ../../../CONTRIBUTING.md:17
+msgid "Fix Bugs"
+msgstr "Corrigir erros"
+
+#: ../../../CONTRIBUTING.md:19
+msgid ""
+"Look through the GitHub issues for bugs. Anything tagged with \"bug\" and "
+"\"help wanted\" is open to whoever wants to implement it."
+msgstr ""
+"Dê uma olhada nas issues do GitHub para verificar se há bugs. Qualquer item "
+"marcado com as tags “bug” e “help wanted” está aberto para quem quiser "
+"implementá-lo."
+
+#: ../../../CONTRIBUTING.md:22
+msgid "Implement Features"
+msgstr "Implementar recursos"
+
+#: ../../../CONTRIBUTING.md:24
+msgid ""
+"Look through the GitHub issues for features. Anything tagged with "
+"\"enhancement\" and \"help wanted\" is open to whoever wants to implement "
+"it."
+msgstr ""
+"Dê uma olhada nas issues do GitHub relacionadas a funcionalidades. Qualquer "
+"item marcado com as tags “enhancement” e “help wanted” está aberto para quem"
+" quiser implementá-lo."
+
+#: ../../../CONTRIBUTING.md:27
+msgid "Write Documentation"
+msgstr "Redigir documentação"
+
+#: ../../../CONTRIBUTING.md:29
+msgid ""
+"You can never have enough documentation! Please feel free to contribute to "
+"any part of the documentation, such as the official docs, docstrings, or "
+"even on the web in blog posts, articles, and such."
+msgstr ""
+"Documentação nunca é demais! Fique à vontade para contribuir com qualquer "
+"parte da documentação, seja nos documentos oficiais, nas descrições de "
+"função (docstrings) ou mesmo na web, por meio de posts em blogs, artigos e "
+"similares."
+
+#: ../../../CONTRIBUTING.md:33
+msgid "Submit Feedback"
+msgstr "Enviar comentários"
+
+#: ../../../CONTRIBUTING.md:35
+msgid "If you are proposing a feature:"
+msgstr "Se você estiver propondo um recurso:"
+
+#: ../../../CONTRIBUTING.md:37
+msgid "Explain in detail how it would work."
+msgstr "Explique em detalhes como isso funcionaria."
+
+#: ../../../CONTRIBUTING.md:38
+msgid "Keep the scope as narrow as possible, to make it easier to implement."
+msgstr ""
+"Mantenha o escopo o mais restrito possível, para facilitar a implementação."
+
+#: ../../../CONTRIBUTING.md:39
+msgid ""
+"Remember that this is a volunteer-driven project, and that contributions are"
+" welcome :)"
+msgstr ""
+"Lembre-se de que este é um projeto conduzido por voluntários e que as "
+"contribuições são bem-vindas :)"
+
+#: ../../../CONTRIBUTING.md:42
+msgid "Get Started!"
+msgstr "Comece agora!"
+
+#: ../../../CONTRIBUTING.md:44
+msgid ""
+"Ready to contribute? Here's how to set up `amazonasdatahub` for local "
+"development."
+msgstr ""
+"Pronto para contribuir? Veja aqui como configurar o ambiente "
+"de`amazonasdatahub` desenvolvimento local."
+
+#: ../../../CONTRIBUTING.md:46
+msgid "Download a copy of `amazonasdatahub` locally."
+msgstr "Baixe uma cópia do arquivo localmente`amazonasdatahub`."
+
+#: ../../../CONTRIBUTING.md:48
+msgid "Create and activate a conda environment for `amazonasdatahub`:"
+msgstr "Crie e ative um ambiente conda para`amazonasdatahub`:"
+
+#: ../../../CONTRIBUTING.md:55
+msgid "Install `amazonasdatahub` using `poetry`:"
+msgstr "Instale  usando`amazonasdatahub``poetry`:"
+
+#: ../../../CONTRIBUTING.md:61
+msgid ""
+"Use `git` (or similar) to create a branch for local development and make "
+"your changes:"
+msgstr ""
+"Use  (`git`ou algo semelhante) para criar um branch para desenvolvimento "
+"local e fazer suas alterações:"
+
+#: ../../../CONTRIBUTING.md:67
+msgid ""
+"When you're done making changes, check that your changes conform to any code"
+" formatting requirements and pass any tests."
+msgstr ""
+"Quando terminar de fazer as alterações, verifique se elas estão em "
+"conformidade com os requisitos de formatação do código e se passam em todos "
+"os testes."
+
+#: ../../../CONTRIBUTING.md:69
+msgid "Commit your changes and open a pull request."
+msgstr "Faça o commit das suas alterações e abra uma solicitação de pull."
+
+#: ../../../CONTRIBUTING.md:71
+msgid "Pull Request Guidelines"
+msgstr "Diretrizes para pull requests"
+
+#: ../../../CONTRIBUTING.md:73
+msgid ""
+"Before you submit a pull request, check that it meets these guidelines:"
+msgstr ""
+"Antes de enviar uma solicitação de pull, verifique se ela está de acordo com"
+" estas diretrizes:"
+
+#: ../../../CONTRIBUTING.md:75
+msgid "The pull request should include additional tests if appropriate."
+msgstr "A solicitação de pull deve incluir testes adicionais, se for o caso."
+
+#: ../../../CONTRIBUTING.md:76
+msgid "If the pull request adds functionality, the docs should be updated."
+msgstr ""
+"Se a solicitação de pull adicionar funcionalidades, a documentação deve ser "
+"atualizada."
+
+#: ../../../CONTRIBUTING.md:77
+msgid ""
+"The pull request should work for all currently supported operating systems "
+"and versions of Python."
+msgstr ""
+"A solicitação de pull deve funcionar em todos os sistemas operacionais e "
+"versões do Python atualmente compatíveis."
+
+#: ../../../CONTRIBUTING.md:79
+msgid "Code of Conduct"
+msgstr "Código de Conduta"
+
+#: ../../../CONTRIBUTING.md:81
+msgid ""
+"Please note that the `amazonasdatahub` project is released with a Code of "
+"Conduct. By contributing to this project you agree to abide by its terms."
+msgstr ""
+"Observe que o projeto`amazonasdatahub` é lançado com um Código de Conduta. "
+"Ao contribuir para este projeto, você concorda em respeitar seus termos."

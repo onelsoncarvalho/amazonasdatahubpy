@@ -1,0 +1,114 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2026, Nelson Geraldo Aquino de Carvalho
+# This file is distributed under the same license as the amazonasdatahub
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: amazonasdatahub\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-01 19:09+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: pt_BR <LL@li.org>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Generated-By: Babel 2.18.0\n"
+
+#: ../../autoapi/amazonasdatahub/datasets/index.rst:2
+msgid "amazonasdatahub.datasets"
+msgstr "amazonasdatahub.conjuntos de dados"
+
+#: ../../autoapi/amazonasdatahub/datasets/index.rst:8
+#: ../../autoapi/amazonasdatahub/index.rst:18
+msgid "Attributes"
+msgstr "Atributos"
+
+#: ../../autoapi/amazonasdatahub/datasets/index.rst:14:<autosummary>:1
+msgid ":py:obj:`CACHE_DIR <amazonasdatahub.datasets.CACHE_DIR>`"
+msgstr ":py:obj:`CACHE_DIR <amazonasdatahub.datasets.CACHE_DIR>`"
+
+#: ../../autoapi/amazonasdatahub/datasets/index.rst:16
+#: ../../autoapi/amazonasdatahub/docs/index.rst:8
+msgid "Functions"
+msgstr "Funções"
+
+#: ../../autoapi/amazonasdatahub/datasets/index.rst:22:<autosummary>:1
+msgid ""
+":py:obj:`get_dataset <amazonasdatahub.datasets.get_dataset>`\\ "
+"\\(dataset\\_name\\[\\, force\\]\\)"
+msgstr ""
+":py:obj:`get_dataset <amazonasdatahub.datasets.get_dataset>`\\ "
+"\\(nome_do_conjunto_de_dados\\[\\, força\\]\\)"
+
+#: ../../autoapi/amazonasdatahub/datasets/index.rst:22:<autosummary>:1
+msgid "Gather an specific dataset."
+msgstr "Reúna um conjunto de dados específico."
+
+#: ../../autoapi/amazonasdatahub/datasets/index.rst:24
+#: ../../autoapi/amazonasdatahub/docs/index.rst:16
+msgid "Module Contents"
+msgstr "Conteúdo do módulo"
+
+#: ../../autoapi/amazonasdatahub/datasets/index.rst:30
+msgid ""
+"Gather an specific dataset. :param dataset_name: Dataset name (example: "
+"agriculture_amazonas) :param force: If True, ignores the cache and downloads"
+" the dataset again"
+msgstr ""
+"Recolher um conjunto de dados específico. :param dataset_name: Nome do "
+"conjunto de dados (exemplo: agricultura_amazonas) :param force: Se for True,"
+" ignora o cache e baixa o conjunto de dados novamente"
+
+#: ../../autoapi/amazonasdatahub/docs/index.rst:2
+msgid "amazonasdatahub.docs"
+msgstr "amazonasdatahub.docs"
+
+#: ../../autoapi/amazonasdatahub/docs/index.rst:14:<autosummary>:1
+msgid ":py:obj:`get_doc <amazonasdatahub.docs.get_doc>`\\ \\(dataset\\_name\\)"
+msgstr ""
+":py:obj:`get_doc <amazonasdatahub.docs.get_doc>`\\ "
+"\\(nome_do_conjunto_de_dados\\)"
+
+#: ../../autoapi/amazonasdatahub/docs/index.rst:20
+#: ../../autoapi/amazonasdatahub/docs/index.rst:14:<autosummary>:1
+msgid "Shows the documentation of a dataset"
+msgstr "Exibe a documentação de um conjunto de dados"
+
+#: ../../autoapi/amazonasdatahub/index.rst:2
+msgid "amazonasdatahub"
+msgstr "amazonasdatahub"
+
+#: ../../autoapi/amazonasdatahub/index.rst:8
+msgid "Submodules"
+msgstr "Submódulos"
+
+#: ../../autoapi/amazonasdatahub/index.rst:24:<autosummary>:1
+msgid ":py:obj:`__version__ <amazonasdatahub.__version__>`"
+msgstr ":py:obj:`__version__ <amazonasdatahub.__version__>`"
+
+#: ../../autoapi/amazonasdatahub/index.rst:26
+msgid "Package Contents"
+msgstr "Conteúdo da embalagem"
+
+#: ../../autoapi/index.rst:2
+msgid "API Reference"
+msgstr "API Referência"
+
+#: ../../autoapi/index.rst:4
+msgid "This page contains auto-generated API reference documentation [#f1]_."
+msgstr ""
+"Esta página contém documentação de referênciaAPI gerada automaticamente "
+"[#f1]_."
+
+#: ../../autoapi/index.rst:11
+msgid ""
+"Created with `sphinx-autoapi <https://github.com/readthedocs/sphinx-"
+"autoapi>`_"
+msgstr ""
+"Criado com `sphinx-autoapi <https://github.com/readthedocs/sphinx-autoapi>`_"
