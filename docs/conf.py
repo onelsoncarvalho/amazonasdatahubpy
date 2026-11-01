@@ -39,19 +39,15 @@ html_static_path = ['_static', '../assets']
 #
 html_theme = "shibuya"
 html_logo = "../assets/figures/logo_amazonasdatahub.png"
+html_context = {
+    "languages": [
+        ("🇺🇸 English", "/en/%s/", "en"),
+        ("🇧🇷 Português (BR)", "/br/%s/", "br")
+    ]
+}
 html_theme_options = {
     "accent_color": "jade",
-    "nav_links": [
-        {
-            "title": "Idioma/Language",
-            "url": f"{REPO_URL}/en",
-            "children": [
-                {"title": "English", "url": f"{REPO_URL}/en/"},
-                {"title": "Português (Brasil)", "url": f"{REPO_URL}/br/"}
-            ]
-        }  
-    ],
-    "nav_socials": [
+        "nav_socials": [
         {
             "name": "GitHub",
             "url": "https://github.com/onelsoncarvalho/amazonasdatahubpy",
