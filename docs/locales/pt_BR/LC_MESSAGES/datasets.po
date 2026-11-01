@@ -26,7 +26,7 @@ msgstr "Conjuntos de dados"
 
 #: ../../../src/amazonasdatahub/documentations/agriculture_amazonas.md:6
 msgid "agriculture_amazonas"
-msgstr "agricultura_amazonas"
+msgstr "agriculture_amazonas"
 
 #: ../../../src/amazonasdatahub/documentations/agriculture_amazonas.md:8
 msgid ""
@@ -95,7 +95,7 @@ msgstr "Município"
 
 #: ../../../src/amazonasdatahub/documentations/agriculture_amazonas.md:28
 msgid "local_unit"
-msgstr "unidade_local"
+msgstr "local_unit"
 
 #: ../../../src/amazonasdatahub/documentations/agriculture_amazonas.md:30
 msgid "Local Unit of the Institute"
@@ -103,7 +103,7 @@ msgstr "Unidade Local do Instituto"
 
 #: ../../../src/amazonasdatahub/documentations/agriculture_amazonas.md:32
 msgid "n_beneficiary"
-msgstr "n_beneficiário"
+msgstr "n_beneficiary"
 
 #: ../../../src/amazonasdatahub/documentations/agriculture_amazonas.md:34
 msgid "Number of assisted beneficiaries"
@@ -135,7 +135,7 @@ msgstr "Produção (na unidade de medida - medida)"
 
 #: ../../../src/amazonasdatahub/documentations/agriculture_amazonas.md:48
 msgid "estimated_n_beneficiary"
-msgstr "estimativa_do_número_de_beneficiários"
+msgstr "estimated_n_beneficiary"
 
 #: ../../../src/amazonasdatahub/documentations/agriculture_amazonas.md:50
 msgid "Estimate of the number of beneficiaries"
@@ -143,7 +143,7 @@ msgstr "Estimativa do número de beneficiários"
 
 #: ../../../src/amazonasdatahub/documentations/agriculture_amazonas.md:52
 msgid "estimated_planted"
-msgstr "área_plantada_estimada"
+msgstr "estimated_planted"
 
 #: ../../../src/amazonasdatahub/documentations/agriculture_amazonas.md:54
 msgid "Estimate of the planted area (ha)"
@@ -151,7 +151,7 @@ msgstr "Estimativa da área plantada (ha)"
 
 #: ../../../src/amazonasdatahub/documentations/agriculture_amazonas.md:56
 msgid "estimated_harvested"
-msgstr "colheita_estimada"
+msgstr "estimated_harvested"
 
 #: ../../../src/amazonasdatahub/documentations/agriculture_amazonas.md:58
 msgid "Estimate of the harvested area (ha)"
@@ -159,7 +159,7 @@ msgstr "Estimativa da área colhida (ha)"
 
 #: ../../../src/amazonasdatahub/documentations/agriculture_amazonas.md:60
 msgid "estimated_production"
-msgstr "produção_estimada"
+msgstr "estimated_production"
 
 #: ../../../src/amazonasdatahub/documentations/agriculture_amazonas.md:62
 msgid "Estimate of production (in the unit of measurement - measure)"
@@ -240,7 +240,7 @@ msgstr "Código municipal"
 
 #: ../../../src/amazonasdatahub/documentations/aids_amazonas.md:29
 msgid "name_muni"
-msgstr "nome_muni"
+msgstr "name_muni"
 
 #: ../../../src/amazonasdatahub/documentations/aids_amazonas.md:31
 msgid "Municipality name"
@@ -273,7 +273,7 @@ msgstr "https://indicadores.aids.gov.br"
 
 #: ../../../src/amazonasdatahub/documentations/gdp_amazonas.md:6
 msgid "gdp_amazonas"
-msgstr "pib_amazonas"
+msgstr "gdp_amazonas"
 
 #: ../../../src/amazonasdatahub/documentations/gdp_amazonas.md:8
 msgid "Gross Domestic Product - GDP of Amazonas"
@@ -331,7 +331,7 @@ msgstr ""
 
 #: ../../../src/amazonasdatahub/documentations/gdp_amazonas.md:41
 msgid "forest_fishing_prod"
-msgstr "pesca_na_floresta_prod"
+msgstr "forest_fishing_prod"
 
 #: ../../../src/amazonasdatahub/documentations/gdp_amazonas.md:43
 msgid ""
@@ -343,7 +343,7 @@ msgstr ""
 
 #: ../../../src/amazonasdatahub/documentations/gdp_amazonas.md:45
 msgid "extractive_ind"
-msgstr "indústria_extrativa"
+msgstr "extractive_ind"
 
 #: ../../../src/amazonasdatahub/documentations/gdp_amazonas.md:47
 msgid "Extractive industries of natural resources as minearls and oil"
@@ -351,7 +351,7 @@ msgstr "Indústrias extrativas de recursos naturais, como minerais e petróleo"
 
 #: ../../../src/amazonasdatahub/documentations/gdp_amazonas.md:49
 msgid "manufacturing_ind"
-msgstr "indústria_manufatureira"
+msgstr "manufacturing_ind"
 
 #: ../../../src/amazonasdatahub/documentations/gdp_amazonas.md:51
 msgid ""
@@ -361,7 +361,7 @@ msgstr ""
 
 #: ../../../src/amazonasdatahub/documentations/gdp_amazonas.md:53
 msgid "basic_infrastructure"
-msgstr "infraestrutura_básica"
+msgstr "basic_infrastructure"
 
 #: ../../../src/amazonasdatahub/documentations/gdp_amazonas.md:55
 msgid ""
@@ -375,7 +375,7 @@ msgstr ""
 
 #: ../../../src/amazonasdatahub/documentations/gdp_amazonas.md:57
 msgid "vehicle_retail_repair"
-msgstr "venda_a_retalho_e_reparação_de_veículos"
+msgstr "vehicle_retail_repair"
 
 #: ../../../src/amazonasdatahub/documentations/gdp_amazonas.md:59
 msgid ""
@@ -387,7 +387,7 @@ msgstr ""
 
 #: ../../../src/amazonasdatahub/documentations/gdp_amazonas.md:61
 msgid "transport_storage_post"
-msgstr "transporte_armazenamento_postagem"
+msgstr "transport_storage_post"
 
 #: ../../../src/amazonasdatahub/documentations/gdp_amazonas.md:63
 msgid ""
@@ -399,7 +399,7 @@ msgstr ""
 
 #: ../../../src/amazonasdatahub/documentations/gdp_amazonas.md:65
 msgid "accomodation_food"
-msgstr "hospedagem_alimentação"
+msgstr "accomodation_food"
 
 #: ../../../src/amazonasdatahub/documentations/gdp_amazonas.md:67
 msgid ""
@@ -408,12 +408,12 @@ msgid ""
 "information technology and telecommunications."
 msgstr ""
 "Refere-se às atividades econômicas em setores relacionados ao turismo, como "
-"hotéis e restaurantes. informação_comunicação Abrange setores ligados à "
-"tecnologia da informação e às telecomunicações."
+"hotéis e restaurantes,information_communicationEncompasses e em setores "
+"ligados à tecnologia da informação e às telecomunicações."
 
 #: ../../../src/amazonasdatahub/documentations/gdp_amazonas.md:69
 msgid "financial_activities"
-msgstr "atividades_financeiras"
+msgstr "financial_activities"
 
 #: ../../../src/amazonasdatahub/documentations/gdp_amazonas.md:71
 msgid ""
@@ -425,7 +425,7 @@ msgstr ""
 
 #: ../../../src/amazonasdatahub/documentations/gdp_amazonas.md:73
 msgid "real_state_activities"
-msgstr "atividades_imobiliárias"
+msgstr "real_state_activities"
 
 #: ../../../src/amazonasdatahub/documentations/gdp_amazonas.md:75
 msgid ""
@@ -435,7 +435,7 @@ msgstr ""
 
 #: ../../../src/amazonasdatahub/documentations/gdp_amazonas.md:77
 msgid "professional_activities"
-msgstr "atividades_profissionais"
+msgstr "professional_activities"
 
 #: ../../../src/amazonasdatahub/documentations/gdp_amazonas.md:79
 msgid ""
@@ -447,7 +447,7 @@ msgstr ""
 
 #: ../../../src/amazonasdatahub/documentations/gdp_amazonas.md:81
 msgid "public_admin_defense_health_edu"
-msgstr "administração_pública_defesa_saúde_educação"
+msgstr "public_admin_defense_health_edu"
 
 #: ../../../src/amazonasdatahub/documentations/gdp_amazonas.md:83
 msgid ""
@@ -461,7 +461,7 @@ msgstr ""
 
 #: ../../../src/amazonasdatahub/documentations/gdp_amazonas.md:85
 msgid "private_edu_health"
-msgstr "educação_privada_saúde"
+msgstr "private_edu_health"
 
 #: ../../../src/amazonasdatahub/documentations/gdp_amazonas.md:87
 msgid ""
@@ -473,7 +473,7 @@ msgstr ""
 
 #: ../../../src/amazonasdatahub/documentations/gdp_amazonas.md:89
 msgid "art_culture_sport"
-msgstr "arte_cultura_esporte"
+msgstr "art_culture_sport"
 
 #: ../../../src/amazonasdatahub/documentations/gdp_amazonas.md:91
 msgid ""
@@ -486,7 +486,7 @@ msgstr ""
 
 #: ../../../src/amazonasdatahub/documentations/gdp_amazonas.md:93
 msgid "domestic_services"
-msgstr "serviços_domésticos"
+msgstr "domestic_services"
 
 #: ../../../src/amazonasdatahub/documentations/gdp_amazonas.md:95
 msgid ""
@@ -517,7 +517,7 @@ msgstr ""
 
 #: ../../../src/amazonasdatahub/documentations/humidity_manaus.md:6
 msgid "humidity_manaus"
-msgstr "umidade_manaus"
+msgstr "humidity_manaus"
 
 #: ../../../src/amazonasdatahub/documentations/humidity_manaus.md:8
 msgid "Time series with Extreme Values of Limited Range"
@@ -588,7 +588,7 @@ msgstr ""
 
 #: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:6
 msgid "malaria_amazonas"
-msgstr "malária_amazonas"
+msgstr "malaria_amazonas"
 
 #: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:8
 msgid ""
@@ -616,7 +616,7 @@ msgstr "‘malaria_amazonas’ Um data frame com 1.098.620 linhas e 40 colunas:"
 
 #: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:25
 msgid "notification_state"
-msgstr "estado_da_notificação"
+msgstr "notification_state"
 
 #: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:27
 msgid "State of notification"
@@ -624,7 +624,7 @@ msgstr "Status da notificação"
 
 #: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:29
 msgid "notification_rh"
-msgstr "notificação_rh"
+msgstr "notification_rh"
 
 #: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:31
 msgid "Health region of notification"
@@ -632,7 +632,7 @@ msgstr "Região de saúde de notificação"
 
 #: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:33
 msgid "notification_county"
-msgstr "notificação_município"
+msgstr "notification_county"
 
 #: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:35
 msgid "County of notification"
@@ -640,7 +640,7 @@ msgstr "Município de notificação"
 
 #: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:37
 msgid "infection_country"
-msgstr "país_de_infecção"
+msgstr "infection_country"
 
 #: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:39
 #: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:51
@@ -649,7 +649,7 @@ msgstr "Condado provável onde o paciente foi infectado"
 
 #: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:41
 msgid "infection_state"
-msgstr "estado_da_infecção"
+msgstr "infection_state"
 
 #: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:43
 msgid "Probable state where the patient was infected"
@@ -657,7 +657,7 @@ msgstr "Estado provável onde o paciente foi infectado"
 
 #: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:45
 msgid "infection_hr"
-msgstr "infecção_hr"
+msgstr "infection_hr"
 
 #: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:47
 msgid "Probable health region where the patient was infected"
@@ -665,11 +665,11 @@ msgstr "Região de saúde provável onde o paciente foi infectado"
 
 #: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:49
 msgid "infection_county"
-msgstr "condado_de_infecção"
+msgstr "infection_county"
 
 #: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:53
 msgid "home_country"
-msgstr "país_de_origem"
+msgstr "home_country"
 
 #: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:55
 msgid "Country of residence of the patient"
@@ -677,7 +677,7 @@ msgstr "País de residência do paciente"
 
 #: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:57
 msgid "home_state"
-msgstr "estado_de_residência"
+msgstr "home_state"
 
 #: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:59
 msgid "State of residence of the patient"
@@ -693,7 +693,7 @@ msgstr "Região de saúde de residência do paciente"
 
 #: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:65
 msgid "home_county"
-msgstr "município_de_residência"
+msgstr "home_county"
 
 #: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:67
 msgid "County of residence of the patient"
@@ -701,7 +701,7 @@ msgstr "Município de residência do paciente"
 
 #: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:69
 msgid "exam_interval"
-msgstr "intervalo_entre_exames"
+msgstr "exam_interval"
 
 #: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:71
 msgid "Time interval between notification and examination"
@@ -709,7 +709,7 @@ msgstr "Intervalo de tempo entre a notificação e o exame"
 
 #: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:73
 msgid "treatment_interval"
-msgstr "intervalo_de_tratamento"
+msgstr "treatment_interval"
 
 #: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:75
 msgid "Time interval between examination and beginning of treatment"
@@ -717,7 +717,7 @@ msgstr "Intervalo de tempo entre o exame e o início do tratamento"
 
 #: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:77
 msgid "notification_interval"
-msgstr "intervalo_de_notificação"
+msgstr "notification_interval"
 
 #: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:79
 msgid "Time interval between symptom and notification"
@@ -725,7 +725,7 @@ msgstr "Intervalo de tempo entre o surgimento do sintoma e a notificação"
 
 #: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:81
 msgid "notification_month"
-msgstr "mês_da_notificação"
+msgstr "notification_month"
 
 #: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:83
 msgid "Month in which the notification was recorded"
@@ -733,7 +733,7 @@ msgstr "Mês em que a notificação foi registrada"
 
 #: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:85
 msgid "notification_year"
-msgstr "ano_da_notificação"
+msgstr "notification_year"
 
 #: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:87
 msgid "Year in which the notification was recorded"
@@ -741,7 +741,7 @@ msgstr "Ano em que a notificação foi registrada"
 
 #: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:89
 msgid "symptom_month"
-msgstr "mês_do_sintoma"
+msgstr "symptom_month"
 
 #: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:91
 msgid "Month in which the patient felt the first symptoms of malaria"
@@ -749,7 +749,7 @@ msgstr "Mês em que o paciente sentiu os primeiros sintomas da malária"
 
 #: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:93
 msgid "symptom_year"
-msgstr "ano_do_sintoma"
+msgstr "symptom_year"
 
 #: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:95
 msgid "Year in which the patient felt the first symptoms of malaria"
@@ -757,7 +757,7 @@ msgstr "Ano em que o paciente sentiu os primeiros sintomas da malária"
 
 #: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:97
 msgid "exam_month"
-msgstr "mês_da_prova"
+msgstr "exam_month"
 
 #: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:99
 msgid "Month in which the examination was performed"
@@ -765,7 +765,7 @@ msgstr "Mês em que o exame foi realizado"
 
 #: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:101
 msgid "exam_year"
-msgstr "ano_do_exame"
+msgstr "exam_year"
 
 #: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:103
 msgid "Year in which the examination was performed"
@@ -773,7 +773,7 @@ msgstr "Ano em que o exame foi realizado"
 
 #: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:105
 msgid "treatment_month"
-msgstr "mês_do_tratamento"
+msgstr "treatment_month"
 
 #: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:107
 msgid "Month in which the treatment started"
@@ -781,7 +781,7 @@ msgstr "Mês em que o tratamento teve início"
 
 #: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:109
 msgid "treatment_year"
-msgstr "ano_do_tratamento"
+msgstr "treatment_year"
 
 #: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:111
 msgid "Year in which the treatment started"
@@ -797,7 +797,7 @@ msgstr "Região de saúde de residência diferente daquela da notificação"
 
 #: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:117
 msgid "autochthonous_case"
-msgstr "caso_autóctone"
+msgstr "autochthonous_case"
 
 #: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:119
 msgid "Health region of infection identical to that of residence"
@@ -805,7 +805,7 @@ msgstr "Região sanitária da infecção é a mesma da residência"
 
 #: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:121
 msgid "exam_result"
-msgstr "resultado_da_prova"
+msgstr "exam_result"
 
 #: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:123
 msgid "Result of examination"
@@ -813,7 +813,7 @@ msgstr "Resultado do exame"
 
 #: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:125
 msgid "detection_type"
-msgstr "tipo_de_detecção"
+msgstr "detection_type"
 
 #: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:127
 msgid "Type of detection"
@@ -821,7 +821,7 @@ msgstr "Tipo de detecção"
 
 #: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:129
 msgid "exam_type"
-msgstr "tipo_de_prova"
+msgstr "exam_type"
 
 #: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:131
 msgid "Type of examination"
@@ -845,7 +845,7 @@ msgstr "O resultado do exame para outros hemiparasitas"
 
 #: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:141
 msgid "previous_treatment"
-msgstr "tratamento_anterior"
+msgstr "previous_treatment"
 
 #: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:143
 msgid "Previous treatment for P. vivax or P.falciparum"
@@ -861,7 +861,7 @@ msgstr "Atividade principal nos últimos 15 dias"
 
 #: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:149
 msgid "education_level"
-msgstr "nível_de_escolaridade"
+msgstr "education_level"
 
 #: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:151
 msgid "Level of education of the patient"
@@ -922,7 +922,7 @@ msgstr "Indica o esquema de tratamento utilizado"
 
 #: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:181
 msgid "qty_parasites"
-msgstr "qty_parasitas"
+msgstr "qty_parasites"
 
 #: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:183
 msgid "Indicates the number of parasites per mm^3"
@@ -970,7 +970,7 @@ msgstr "Data do registro - aaaa-mm-dd"
 
 #: ../../../src/amazonasdatahub/documentations/prf_amazonas.md:32
 msgid "days_of_week"
-msgstr "dias_da_semana"
+msgstr "days_of_week"
 
 #: ../../../src/amazonasdatahub/documentations/prf_amazonas.md:34
 msgid "Day of the week"
@@ -986,7 +986,7 @@ msgstr "A hora do recorde"
 
 #: ../../../src/amazonasdatahub/documentations/prf_amazonas.md:40
 msgid "federative_unit"
-msgstr "unidade_federativa"
+msgstr "federative_unit"
 
 #: ../../../src/amazonasdatahub/documentations/prf_amazonas.md:42
 msgid "Federative unit (UF)"
@@ -1010,7 +1010,7 @@ msgstr "Quilômetro da BR"
 
 #: ../../../src/amazonasdatahub/documentations/prf_amazonas.md:56
 msgid "accident_cause"
-msgstr "causa_do_acidente"
+msgstr "accident_cause"
 
 #: ../../../src/amazonasdatahub/documentations/prf_amazonas.md:58
 msgid "Accident cause"
@@ -1018,7 +1018,7 @@ msgstr "Causa do acidente"
 
 #: ../../../src/amazonasdatahub/documentations/prf_amazonas.md:60
 msgid "accident_type"
-msgstr "tipo_de_acidente"
+msgstr "accident_type"
 
 #: ../../../src/amazonasdatahub/documentations/prf_amazonas.md:62
 msgid "Accident type"
@@ -1026,7 +1026,7 @@ msgstr "Tipo de acidente"
 
 #: ../../../src/amazonasdatahub/documentations/prf_amazonas.md:64
 msgid "accident_classification"
-msgstr "classificação_de_acidentes"
+msgstr "accident_classification"
 
 #: ../../../src/amazonasdatahub/documentations/prf_amazonas.md:66
 msgid ""
@@ -1038,7 +1038,7 @@ msgstr ""
 
 #: ../../../src/amazonasdatahub/documentations/prf_amazonas.md:68
 msgid "road_direction"
-msgstr "direção_da_estrada"
+msgstr "road_direction"
 
 #: ../../../src/amazonasdatahub/documentations/prf_amazonas.md:70
 msgid "Road direction"
@@ -1054,7 +1054,7 @@ msgstr "Condições meteorológicas no momento do acidente"
 
 #: ../../../src/amazonasdatahub/documentations/prf_amazonas.md:76
 msgid "track_type"
-msgstr "tipo_de_pista"
+msgstr "track_type"
 
 #: ../../../src/amazonasdatahub/documentations/prf_amazonas.md:78
 msgid "Track type: Simples, Múltipla ou Dupla"
@@ -1062,7 +1062,7 @@ msgstr "Tipo de pista: Simples, Múltipla ou Dupla"
 
 #: ../../../src/amazonasdatahub/documentations/prf_amazonas.md:80
 msgid "track_layout"
-msgstr "traçado da pista"
+msgstr "track_layout"
 
 #: ../../../src/amazonasdatahub/documentations/prf_amazonas.md:82
 msgid "Track layout"
@@ -1070,7 +1070,7 @@ msgstr "Traçado da pista"
 
 #: ../../../src/amazonasdatahub/documentations/prf_amazonas.md:84
 msgid "land_use"
-msgstr "uso_do_solo"
+msgstr "land_use"
 
 #: ../../../src/amazonasdatahub/documentations/prf_amazonas.md:86
 msgid "Land use"
@@ -1094,7 +1094,7 @@ msgstr "Número de mortos"
 
 #: ../../../src/amazonasdatahub/documentations/prf_amazonas.md:96
 msgid "minor_injuries"
-msgstr "lesões leves"
+msgstr "minor_injuries"
 
 #: ../../../src/amazonasdatahub/documentations/prf_amazonas.md:98
 msgid "Number of victims with minor injuries"
@@ -1102,7 +1102,7 @@ msgstr "Número de vítimas com ferimentos leves"
 
 #: ../../../src/amazonasdatahub/documentations/prf_amazonas.md:100
 msgid "serious_injuries"
-msgstr "lesões_graves"
+msgstr "serious_injuries"
 
 #: ../../../src/amazonasdatahub/documentations/prf_amazonas.md:102
 msgid "Number of victims with serious injuries"
@@ -1158,7 +1158,7 @@ msgstr "Superintendência da Polícia Rodoviária Federal do Brasil"
 
 #: ../../../src/amazonasdatahub/documentations/prf_amazonas.md:128
 msgid "police_station"
-msgstr "delegacia"
+msgstr "police_station"
 
 #: ../../../src/amazonasdatahub/documentations/prf_amazonas.md:130
 msgid "Police station where the report was filed"
@@ -1166,7 +1166,7 @@ msgstr "Delegacia onde a ocorrência foi registrada"
 
 #: ../../../src/amazonasdatahub/documentations/prf_amazonas.md:132
 msgid "operating_unit"
-msgstr "unidade_operacional"
+msgstr "operating_unit"
 
 #: ../../../src/amazonasdatahub/documentations/prf_amazonas.md:134
 msgid "Operating unit and police station"
@@ -1211,7 +1211,7 @@ msgstr "Nível do rio em metros"
 
 #: ../../../src/amazonasdatahub/documentations/rionegro_amazonas.md:28
 msgid "increase_decrease_cm"
-msgstr "aumento_diminuição_cm"
+msgstr "increase_decrease_cm"
 
 #: ../../../src/amazonasdatahub/documentations/rionegro_amazonas.md:30
 msgid "Wheter the river level filled or dropped (in centimeters)"
@@ -1294,7 +1294,7 @@ msgstr "Idade (em anos)"
 
 #: ../../../src/amazonasdatahub/documentations/srl_muni.md:36
 msgid "weight_kg"
-msgstr "peso_kg"
+msgstr "weight_kg"
 
 #: ../../../src/amazonasdatahub/documentations/srl_muni.md:38
 msgid "Weight in kilograms (kg)"
@@ -1302,7 +1302,7 @@ msgstr "Peso em quilogramas (kg)"
 
 #: ../../../src/amazonasdatahub/documentations/srl_muni.md:40
 msgid "height_m"
-msgstr "altura_m"
+msgstr "height_m"
 
 #: ../../../src/amazonasdatahub/documentations/srl_muni.md:42
 msgid "Height in meters (m)"
@@ -1444,7 +1444,7 @@ msgstr ""
 
 #: ../../../src/amazonasdatahub/documentations/srl_muni.md:88
 msgid "tde_categorical"
-msgstr "tde_categórico"
+msgstr "tde_categorical"
 
 #: ../../../src/amazonasdatahub/documentations/srl_muni.md:90
 msgid "Categorical description of the TDE Score."

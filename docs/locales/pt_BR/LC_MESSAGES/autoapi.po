@@ -62,7 +62,7 @@ msgid ""
 " the dataset again"
 msgstr ""
 "Recolher um conjunto de dados específico. :param dataset_name: Nome do "
-"conjunto de dados (exemplo: agricultura_amazonas) :param force: Se for True,"
+"conjunto de dados (exemplo: agriculture_amazonas) :param force: Se for True,"
 " ignora o cache e baixa o conjunto de dados novamente"
 
 #: ../../autoapi/amazonasdatahub/docs/index.rst:2
