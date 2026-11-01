@@ -41,8 +41,8 @@ html_theme = "shibuya"
 html_logo = "../assets/figures/logo_amazonasdatahub.png"
 html_context = {
     "languages": [
-        ("🇺🇸 English", "/en/"),
-        ("🇧🇷 Português (BR)", "/br/")
+        ("🇺🇸 English", f"{REPO_URL}/en/"),
+        ("🇧🇷 Português (BR)", f"{REPO_URL}/br/")
     ]
 }
 html_theme_options = {
