@@ -426,6 +426,24 @@ files = [
 ]
 
 [[package]]
+name = "deepl"
+version = "1.32.0"
+description = "Python library for the DeepL API."
+optional = false
+python-versions = "<4,>=3.9"
+groups = ["dev"]
+files = [
+    {file = "deepl-1.32.0-py3-none-any.whl", hash = "sha256:36f2faadc79a64712489bfeab32f344536eab25b3c38ea2e39a72084a71e0a7e"},
+    {file = "deepl-1.32.0.tar.gz", hash = "sha256:3016bf86f1f53eb6e5fedb458746c6bf6579a840b57c54a2ed701b0344bc79e1"},
+]
+
+[package.dependencies]
+requests = ">=2.32.5"
+
+[package.extras]
+keyring = ["keyring (>=25.7.0,<26.0.0)"]
+
+[[package]]
 name = "docutils"
 version = "0.22.4"
 description = "Docutils -- Python Documentation Utilities"
@@ -1357,6 +1375,18 @@ files = [
 ]
 
 [[package]]
+name = "polib"
+version = "1.2.0"
+description = "A library to manipulate gettext files (po and mo files)."
+optional = false
+python-versions = "*"
+groups = ["dev"]
+files = [
+    {file = "polib-1.2.0-py2.py3-none-any.whl", hash = "sha256:1c77ee1b81feb31df9bca258cbc58db1bbb32d10214b173882452c73af06d62d"},
+    {file = "polib-1.2.0.tar.gz", hash = "sha256:f3ef94aefed6e183e342a8a269ae1fc4742ba193186ad76f175938621dbfc26b"},
+]
+
+[[package]]
 name = "prompt-toolkit"
 version = "3.0.53"
 description = "Library for building powerful interactive command lines in Python"
@@ -2020,6 +2050,26 @@ PyYAML = "*"
 sphinx = ">=7.4.0"
 
 [[package]]
+name = "sphinx-intl"
+version = "2.4.0"
+description = "Sphinx utility that make it easy to translate and to apply translation."
+optional = false
+python-versions = ">=3.10"
+groups = ["dev"]
+files = [
+    {file = "sphinx_intl-2.4.0-py3-none-any.whl", hash = "sha256:704567d1b22f7e8ed1cfc8aa2306e6617a1d17782c9a5891898b20267b15b041"},
+    {file = "sphinx_intl-2.4.0.tar.gz", hash = "sha256:f13173bfc4a131f74ea082a5820386e2bcdc020b3003378b029d438f404edbde"},
+]
+
+[package.dependencies]
+babel = ">=2.9.0"
+click = ">=8.0.0"
+sphinx = "*"
+
+[package.extras]
+test = ["pytest (>=8.3.5)"]
+
+[[package]]
 name = "sphinxcontrib-applehelp"
 version = "2.0.0"
 description = "sphinxcontrib-applehelp is a Sphinx extension which outputs Apple help books"
@@ -2359,4 +2409,4 @@ type = ["pytest-mypy (>=1.0.1) ; platform_python_implementation != \"PyPy\""]
 [metadata]
 lock-version = "2.1"
 python-versions = "^3.12"
-content-hash = "8c5a17c20eb1867bd23356ffb27a82342f2932fa06320c7a71f4305a33d8cd99"
+content-hash = "a4e681bfb3a8e0583598356f273d3559f82d5bb0210f6ff87f8f5f3c53ce3639"
