@@ -12,7 +12,7 @@ kernelspec:
 ```{include} ../../src/amazonasdatahub/documentations/malaria_amazonas.md
 :relative-images:
 :start-line: 3
-:end-line: 191
+:end-line: 190
 ```
 
 ### Example
