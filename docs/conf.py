@@ -4,6 +4,11 @@
 # list see the documentation:
 # https://www.sphinx-doc.org/en/master/usage/configuration.html
 
+import os
+import re
+from pathlib import Path
+from sphinx.util import logging
+
 # -- Project information -----------------------------------------------------
 
 project = u"amazonasdatahub"
@@ -61,3 +66,73 @@ html_theme_options = {
     ],
     "hide_breadcrumbs": True
 }
+
+
+
+# Custom build
+logger = logging.getLogger(__name__)
+
+CONF_DIR = Path(__file__).parent.resolve()
+SRC_DOCS_DIR = (CONF_DIR / ".." / "src" / "amazonasdatahub" / "documentations").resolve()
+STUBS_DIR = CONF_DIR / "datasets"
+
+EXAMPLE_RE = re.compile(r"^### Example\s*$")
+PY_FENCE_RE = re.compile(r"^```python\s*$")
+
+STUB_HEADER = """\
+---
+file_format: mystnb
+kernelspec:
+  name: python3
+  display_name: Python 3
+  language: python
+---
+
+% ARQUIVO GERADO por docs/conf.py. Não edite aqui: edite {origem}
+"""
+
+
+def _build_stub(source: Path, stub_path: Path) -> str:
+    lines = source.read_text(encoding="utf-8").splitlines()
+    # Skip yaml from original file (if has yaml)
+    start = 0
+    if lines and lines[0].strip() == "---":
+        for i, line in enumerate(lines[1:], start=1):
+            if line.strip() == "---":
+                start = i + 1
+                break
+
+    example_idx = next((i for i, l in enumerate(lines) if EXAMPLE_RE.match(l)), None)
+
+    rel = Path(os.path.relpath(source, stub_path.parent)).as_posix()
+    include = [f"```{{include}} {rel}", ":relative-images:", f":start-line: {start}"]
+    if example_idx is not None:
+        include.append(f":end-line: {example_idx}")  # exclusivo: para antes do Example
+    include.append("```")
+
+    parts = [STUB_HEADER.format(origem=rel), "\n".join(include)]
+
+    if example_idx is not None:
+        example = [
+            "```{code-cell} python" if PY_FENCE_RE.match(l) else l
+            for l in lines[example_idx:]
+        ]
+        parts.append("\n".join(example))
+
+    return "\n\n".join(parts) + "\n"
+
+
+def generate_dataset_stubs(app):
+    STUBS_DIR.mkdir(exist_ok=True)
+    for source in sorted(SRC_DOCS_DIR.glob("*.md")):
+        stub_path = STUBS_DIR / source.name
+        content = _build_stub(source, stub_path)
+        
+        if stub_path.exists() and stub_path.read_text(encoding="utf-8") == content:
+            continue
+        stub_path.write_text(content, encoding="utf-8")
+        logger.info(f"stub gerado: {stub_path.name}")
+
+
+def setup(app):
+    app.connect("builder-inited", generate_dataset_stubs)

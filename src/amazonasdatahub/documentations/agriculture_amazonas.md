@@ -80,6 +80,6 @@ https://www.idam.am.gov.br/biblioteca/relatorio-de-atividades-rat-23-2/
 
 ### Example
 
-```{code-cell} python
+```python
 print("hello world")
 ```
