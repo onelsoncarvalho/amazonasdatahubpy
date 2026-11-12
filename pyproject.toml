@@ -5,8 +5,7 @@ description = "The goal of amazonasdatahub is to gather various data sets from t
 authors = ["Nelson Geraldo Aquino de Carvalho"]
 license = "MIT"
 readme = "README.md"
-include = ["amazonasdatahub/docs/*.md"]
-
+packages = [{ include = "amazonasdatahub", from = "src" }]
 
 [tool.poetry.dependencies]
 python = "^3.12"
@@ -14,20 +13,19 @@ pandas = "^3.0.2"
 python-frontmatter = "^1.1.0"
 requests = "^2.33.1"
 pyarrow = "^24.0.0"
-shibuya = "^2026.7.12"
+
+[tool.poetry.group.dev.dependencies]
+myst-nb = ">=1.3.0,<1.4.0"
+sphinx-autoapi = ">=3.8.1,<4.0.0"
+shibuya = ">=2026.7.12,<2027.0.0"
 matplotlib = "^3.11.2"
+deepl = ">=1.32.0,<2.0.0"
+polib = ">=1.2.0,<2.0.0"
+sphinx-intl = ">=2.4.0,<3.0.0"
+sphinx-autobuild = ">=2025.8.25,<2026.0.0"
+pytest = ">=9.2.0,<10.0.0"
+pytest-cov = ">=7.1.0,<8.0.0"
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]
 build-backend = "poetry.core.masonry.api"
-
-[dependency-groups]
-dev = [
-    "myst-nb (>=1.3.0,<1.4.0)",
-    "sphinx-autoapi (>=3.8.1,<4.0.0)",
-    "shibuya (>=2026.7.12,<2027.0.0)",
-    "deepl (>=1.32.0,<2.0.0)",
-    "polib (>=1.2.0,<2.0.0)",
-    "sphinx-intl (>=2.4.0,<3.0.0)",
-    "sphinx-autobuild (>=2025.8.25,<2026.0.0)"
-]
