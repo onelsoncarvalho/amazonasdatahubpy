@@ -8,8 +8,7 @@ An integrated dataset of malaria notifications in the state of Amazonas
 
 ### Description
 
-This dataset contains medical records of patients who underwent malaria screening tests in the Legal Amazon. The data in this dataset were filtered to include only the cases reported in the state of Amazonas and for patients who reside specifically in the state of Amazonas.
-
+This dataset contains medical records of patients who underwent malaria screening tests in the Legal Amazon. The data in this dataset were filtered to include only the cases reported in the state of Amazonas and for patients who reside specifically in the state of Amazonas between 2014 and 2019.
 
 ### Usage
 
@@ -19,7 +18,7 @@ malaria_amazonas = get_dataset("malaria_amazonas")
 
 ### Format
 
-‘malaria_amazonas’ A data frame with 1098620 rows and 40 columns:
+‘malaria_amazonas’ A data frame with 551633 rows and 35 columns:
 
 #### notification_state
 
