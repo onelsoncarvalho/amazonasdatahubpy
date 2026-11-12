@@ -49,11 +49,16 @@ List of available datasets:
 
 To install `amazonasdatahub`, you need the following tools installed on your computer or development environment:
 
-- Python 3.14.3
+- Python >= 3.14.3
 - `pip` (package manager)
-- Git
 
-You can install the development version of `amazonasdatahub` using `git clone` to clone the remote repository into your local environment and `pip` to install it:
+You can install the published release with:
+
+```
+pip install amazonasdatahub
+```
+
+Or you can install the development version of `amazonasdatahub` using `git clone` to clone the remote repository into your local environment and `pip` to install it:
 ``` 
 # cloning
 git clone https://github.com/onelsoncarvalho/amazonasdatahubpy amazonasdatahub
