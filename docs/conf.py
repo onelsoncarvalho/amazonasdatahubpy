@@ -23,6 +23,11 @@ extensions = [
 ]
 autoapi_dirs = ["../src"]
 
+# MyST-NB option to execute code
+nb_execution_mode = "auto"
+nb_execution_timeout = 60
+nb_mime_priority_excludes = ["application/vnd.jupyter.widget-view+json"]
+
 REPO_URL = "https://onelsoncarvalho.github.io/amazonasdatahubpy"
 
 # List of patterns, relative to source directory, that match files and
