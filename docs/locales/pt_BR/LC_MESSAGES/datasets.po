@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: amazonasdatahub\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-01 19:09+0000\n"
+"POT-Creation-Date: 2026-11-12 13:35+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: pt_BR <LL@li.org>\n"
@@ -209,6 +209,10 @@ msgid ""
 "https://www.idam.am.gov.br/biblioteca/relatorio-de-atividades-rat-23-2/"
 msgstr ""
 "https://www.idam.am.gov.br/biblioteca/relatorio-de-atividades-rat-23-2/"
+
+#: ../../../src/amazonasdatahub/documentations/agriculture_amazonas.md:82
+msgid "Example"
+msgstr "Exemplo"
 
 #: ../../../src/amazonasdatahub/documentations/aids_amazonas.md:7
 msgid "aids_amazonas"
