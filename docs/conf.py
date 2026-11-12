@@ -36,15 +36,19 @@ nb_render_markdown_format = "myst"
 
 # Custom block code colors
 # Syntax highlighting
-def copy_theme_script(app):
+def copy_theme_assets(app):
     import shutil
 
-    source = CONF_DIR.parent / "scripts" / "mystnb-theme.js"
-    destination = CONF_DIR / "_static" / "mystnb-theme.js"
+    src_js = CONF_DIR.parent / "scripts" / "mystnb-theme.js"
+    dest_js = CONF_DIR / "_static" / "mystnb-theme.js"
+    dest_js.parent.mkdir(parents=True, exist_ok=True)
+    if src_js.exists():
+        shutil.copy2(src_js, dest_js)
 
-    destination.parent.mkdir(parents=True, exist_ok=True)
-    shutil.copy2(source, destination)
-
+    src_css = CONF_DIR.parent / "scripts" / "custom.css"
+    dest_css = CONF_DIR / "_static" / "custom.css"
+    if src_css.exists():
+        shutil.copy2(src_css, dest_css)
 
 REPO_URL = "https://onelsoncarvalho.github.io/amazonasdatahubpy"
 
@@ -57,6 +61,10 @@ html_static_path = ['_static', '../assets']
 
 html_js_files = [
     "mystnb-theme.js",
+]
+
+html_css_files = [
+    "custom.css",
 ]
 
 # -- Options for HTML output -------------------------------------------------
@@ -156,4 +164,4 @@ def generate_dataset_stubs(app):
 
 def setup(app):
     app.connect("builder-inited", generate_dataset_stubs)
-    app.connect("builder-inited", copy_theme_script)
+    app.connect("builder-inited", copy_theme_assets)

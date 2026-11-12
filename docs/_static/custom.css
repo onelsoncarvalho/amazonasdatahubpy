@@ -1,0 +1,13 @@
+button.theme-toggle,
+.header-action-item button[aria-label*="theme"],
+.header-action-item button[aria-label*="Color mode"] {
+  display: none !important;
+}
+
+button.theme-switch {
+  display: none !important;
+}
+
+/* button <button class="js-theme theme-switch flex items-center" data-aria-auto="Switch to light color mode" data-aria-light="Switch to dark color mode" data-aria-dark="Switch to auto color mode" aria-label="Switch to light color mode"> */
+/* <i class="i-lucide theme-icon"></i> */
+/* </button> */
