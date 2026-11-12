@@ -32,6 +32,11 @@ autoapi_dirs = ["../src"]
 nb_execution_mode = "auto"
 nb_execution_timeout = 60
 nb_mime_priority_excludes = ["application/vnd.jupyter.widget-view+json"]
+nb_render_markdown_format = "myst"
+
+# Custom block code colors
+# Syntax highlighting
+
 
 REPO_URL = "https://onelsoncarvalho.github.io/amazonasdatahubpy"
 
@@ -41,6 +46,10 @@ REPO_URL = "https://onelsoncarvalho.github.io/amazonasdatahubpy"
 exclude_patterns = ["_build", "Thumbs.db", ".DS_Store"]
 
 html_static_path = ['_static', '../assets']
+
+html_js_files = [
+    "mystnb-theme.js",
+]
 
 # -- Options for HTML output -------------------------------------------------
 
@@ -57,6 +66,7 @@ html_context = {
 }
 html_theme_options = {
     "accent_color": "jade",
+    "dark_code": False,
         "nav_socials": [
         {
             "name": "GitHub",
@@ -64,7 +74,8 @@ html_theme_options = {
             "icon": "simple-icons:github"
         }
     ],
-    "hide_breadcrumbs": True
+    "hide_breadcrumbs": True,
+    "navigation_with_keys": True,
 }
 
 
