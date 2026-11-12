@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: amazonasdatahub\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-12 15:38+0000\n"
+"POT-Creation-Date: 2026-11-12 15:56+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: pt_BR <LL@li.org>\n"
@@ -61,7 +61,7 @@ msgstr ""
 #: ../../../src/amazonasdatahub/documentations/aids_amazonas.md:15
 #: ../../../src/amazonasdatahub/documentations/gdp_amazonas.md:15
 #: ../../../src/amazonasdatahub/documentations/humidity_manaus.md:15
-#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:15
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:14
 #: ../../../src/amazonasdatahub/documentations/prf_amazonas.md:14
 #: ../../../src/amazonasdatahub/documentations/rionegro_amazonas.md:14
 #: ../../../src/amazonasdatahub/documentations/srl_muni.md:14
@@ -72,7 +72,7 @@ msgstr "Uso"
 #: ../../../src/amazonasdatahub/documentations/aids_amazonas.md:21
 #: ../../../src/amazonasdatahub/documentations/gdp_amazonas.md:21
 #: ../../../src/amazonasdatahub/documentations/humidity_manaus.md:21
-#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:21
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:20
 #: ../../../src/amazonasdatahub/documentations/prf_amazonas.md:20
 #: ../../../src/amazonasdatahub/documentations/rionegro_amazonas.md:20
 #: ../../../src/amazonasdatahub/documentations/srl_muni.md:20
@@ -197,7 +197,7 @@ msgstr "Ano de cultivo"
 #: ../../../src/amazonasdatahub/documentations/aids_amazonas.md:45
 #: ../../../src/amazonasdatahub/documentations/gdp_amazonas.md:101
 #: ../../../src/amazonasdatahub/documentations/humidity_manaus.md:46
-#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:189
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:188
 #: ../../../src/amazonasdatahub/documentations/prf_amazonas.md:136
 #: ../../../src/amazonasdatahub/documentations/rionegro_amazonas.md:48
 #: ../../../src/amazonasdatahub/documentations/srl_muni.md:92
@@ -212,8 +212,9 @@ msgstr ""
 
 #: ../../datasets/agriculture_amazonas.md:18
 #: ../../datasets/aids_amazonas.md:18 ../../datasets/gdp_amazonas.md:18
-#: ../../datasets/malaria_amazonas.md:18 ../../datasets/prf_amazonas.md:18
-#: ../../datasets/rionegro_amazonas.md:18 ../../datasets/srl_muni.md:18
+#: ../../datasets/humidity_manaus.md:18 ../../datasets/malaria_amazonas.md:18
+#: ../../datasets/prf_amazonas.md:18 ../../datasets/rionegro_amazonas.md:18
+#: ../../datasets/srl_muni.md:18
 msgid "Example"
 msgstr "Exemplo"
 
@@ -262,7 +263,7 @@ msgid "Case count"
 msgstr "Número de casos"
 
 #: ../../../src/amazonasdatahub/documentations/aids_amazonas.md:37
-#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:161
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:160
 msgid "gender"
 msgstr "gênero"
 
@@ -573,13 +574,13 @@ msgid "Wet Bulb Temperature"
 msgstr "Temperatura do bulbo úmido"
 
 #: ../../../src/amazonasdatahub/documentations/humidity_manaus.md:41
-#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:185
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:184
 #: ../../../src/amazonasdatahub/documentations/rionegro_amazonas.md:36
 msgid "month"
 msgstr "mês"
 
 #: ../../../src/amazonasdatahub/documentations/humidity_manaus.md:43
-#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:187
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:186
 msgid "The month in which this data was observed"
 msgstr "O mês em que esses dados foram registrados"
 
@@ -609,333 +610,333 @@ msgid ""
 "This dataset contains medical records of patients who underwent malaria "
 "screening tests in the Legal Amazon. The data in this dataset were filtered "
 "to include only the cases reported in the state of Amazonas and for patients"
-" who reside specifically in the state of Amazonas."
+" who reside specifically in the state of Amazonas between 2014 and 2019."
 msgstr ""
-"Este conjunto de dados contém registros médicos de pacientes que se "
+"Este conjunto de dados contém prontuários médicos de pacientes que se "
 "submeteram a exames de triagem para malária na Amazônia Legal. Os dados "
 "deste conjunto foram filtrados para incluir apenas os casos notificados no "
-"estado do Amazonas e de pacientes que residem especificamente no estado do "
-"Amazonas."
+"estado do Amazonas e referentes a pacientes que residiam especificamente no "
+"estado do Amazonas entre 2014 e 2019."
 
-#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:23
-msgid "‘malaria_amazonas’ A data frame with 1098620 rows and 40 columns:"
-msgstr "‘malaria_amazonas’ Um data frame com 1.098.620 linhas e 40 colunas:"
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:22
+msgid "‘malaria_amazonas’ A data frame with 551633 rows and 35 columns:"
+msgstr "malaria_amazonas“Um data frame com 551.633 linhas e 35 colunas:"
 
-#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:25
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:24
 msgid "notification_state"
 msgstr "notification_state"
 
-#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:27
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:26
 msgid "State of notification"
 msgstr "Status da notificação"
 
-#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:29
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:28
 msgid "notification_rh"
 msgstr "notification_rh"
 
-#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:31
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:30
 msgid "Health region of notification"
 msgstr "Região de saúde de notificação"
 
-#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:33
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:32
 msgid "notification_county"
 msgstr "notification_county"
 
-#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:35
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:34
 msgid "County of notification"
 msgstr "Município de notificação"
 
-#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:37
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:36
 msgid "infection_country"
 msgstr "infection_country"
 
-#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:39
-#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:51
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:38
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:50
 msgid "Probable county where the patient was infected"
 msgstr "Condado provável onde o paciente foi infectado"
 
-#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:41
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:40
 msgid "infection_state"
 msgstr "infection_state"
 
-#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:43
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:42
 msgid "Probable state where the patient was infected"
 msgstr "Estado provável onde o paciente foi infectado"
 
-#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:45
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:44
 msgid "infection_hr"
 msgstr "infection_hr"
 
-#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:47
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:46
 msgid "Probable health region where the patient was infected"
 msgstr "Região de saúde provável onde o paciente foi infectado"
 
-#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:49
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:48
 msgid "infection_county"
 msgstr "infection_county"
 
-#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:53
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:52
 msgid "home_country"
 msgstr "home_country"
 
-#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:55
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:54
 msgid "Country of residence of the patient"
 msgstr "País de residência do paciente"
 
-#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:57
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:56
 msgid "home_state"
 msgstr "home_state"
 
-#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:59
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:58
 msgid "State of residence of the patient"
 msgstr "Estado de residência do paciente"
 
-#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:61
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:60
 msgid "home_hr"
 msgstr "home_hr"
 
-#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:63
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:62
 msgid "Health region of residence of the patient"
 msgstr "Região de saúde de residência do paciente"
 
-#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:65
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:64
 msgid "home_county"
 msgstr "home_county"
 
-#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:67
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:66
 msgid "County of residence of the patient"
 msgstr "Município de residência do paciente"
 
-#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:69
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:68
 msgid "exam_interval"
 msgstr "exam_interval"
 
-#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:71
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:70
 msgid "Time interval between notification and examination"
 msgstr "Intervalo de tempo entre a notificação e o exame"
 
-#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:73
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:72
 msgid "treatment_interval"
 msgstr "treatment_interval"
 
-#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:75
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:74
 msgid "Time interval between examination and beginning of treatment"
 msgstr "Intervalo de tempo entre o exame e o início do tratamento"
 
-#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:77
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:76
 msgid "notification_interval"
 msgstr "notification_interval"
 
-#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:79
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:78
 msgid "Time interval between symptom and notification"
 msgstr "Intervalo de tempo entre o surgimento do sintoma e a notificação"
 
-#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:81
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:80
 msgid "notification_month"
 msgstr "notification_month"
 
-#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:83
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:82
 msgid "Month in which the notification was recorded"
 msgstr "Mês em que a notificação foi registrada"
 
-#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:85
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:84
 msgid "notification_year"
 msgstr "notification_year"
 
-#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:87
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:86
 msgid "Year in which the notification was recorded"
 msgstr "Ano em que a notificação foi registrada"
 
-#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:89
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:88
 msgid "symptom_month"
 msgstr "symptom_month"
 
-#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:91
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:90
 msgid "Month in which the patient felt the first symptoms of malaria"
 msgstr "Mês em que o paciente sentiu os primeiros sintomas da malária"
 
-#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:93
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:92
 msgid "symptom_year"
 msgstr "symptom_year"
 
-#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:95
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:94
 msgid "Year in which the patient felt the first symptoms of malaria"
 msgstr "Ano em que o paciente sentiu os primeiros sintomas da malária"
 
-#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:97
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:96
 msgid "exam_month"
 msgstr "exam_month"
 
-#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:99
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:98
 msgid "Month in which the examination was performed"
 msgstr "Mês em que o exame foi realizado"
 
-#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:101
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:100
 msgid "exam_year"
 msgstr "exam_year"
 
-#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:103
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:102
 msgid "Year in which the examination was performed"
 msgstr "Ano em que o exame foi realizado"
 
-#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:105
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:104
 msgid "treatment_month"
 msgstr "treatment_month"
 
-#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:107
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:106
 msgid "Month in which the treatment started"
 msgstr "Mês em que o tratamento teve início"
 
-#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:109
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:108
 msgid "treatment_year"
 msgstr "treatment_year"
 
-#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:111
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:110
 msgid "Year in which the treatment started"
 msgstr "Ano em que o tratamento teve início"
 
-#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:113
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:112
 msgid "migration"
 msgstr "migração"
 
-#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:115
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:114
 msgid "Health region of residence different than that of notification"
 msgstr "Região de saúde de residência diferente daquela da notificação"
 
-#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:117
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:116
 msgid "autochthonous_case"
 msgstr "autochthonous_case"
 
-#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:119
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:118
 msgid "Health region of infection identical to that of residence"
 msgstr "Região sanitária da infecção é a mesma da residência"
 
-#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:121
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:120
 msgid "exam_result"
 msgstr "exam_result"
 
-#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:123
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:122
 msgid "Result of examination"
 msgstr "Resultado do exame"
 
-#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:125
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:124
 msgid "detection_type"
 msgstr "detection_type"
 
-#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:127
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:126
 msgid "Type of detection"
 msgstr "Tipo de detecção"
 
-#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:129
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:128
 msgid "exam_type"
 msgstr "exam_type"
 
-#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:131
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:130
 msgid "Type of examination"
 msgstr "Tipo de exame"
 
-#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:133
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:132
 msgid "symptom"
 msgstr "sintoma"
 
-#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:135
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:134
 msgid "Indicates if the patient felt a symptom"
 msgstr "Indica se o paciente sentiu algum sintoma"
 
-#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:137
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:136
 msgid "hemiparasite"
 msgstr "hemiparasita"
 
-#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:139
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:138
 msgid "The result of the examination for other hemiparasites"
 msgstr "O resultado do exame para outros hemiparasitas"
 
-#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:141
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:140
 msgid "previous_treatment"
 msgstr "previous_treatment"
 
-#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:143
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:142
 msgid "Previous treatment for P. vivax or P.falciparum"
 msgstr "Tratamento prévio para P. vivax ou P. falciparum"
 
-#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:145
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:144
 msgid "occupation"
 msgstr "ocupação"
 
-#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:147
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:146
 msgid "Main activity in the last 15 days"
 msgstr "Atividade principal nos últimos 15 dias"
 
-#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:149
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:148
 msgid "education_level"
 msgstr "education_level"
 
-#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:151
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:150
 msgid "Level of education of the patient"
 msgstr "Nível de escolaridade do paciente"
 
-#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:153
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:152
 #: ../../../src/amazonasdatahub/documentations/srl_muni.md:32
 msgid "age"
 msgstr "idade"
 
-#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:155
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:154
 msgid "Interval of the age of the patient"
 msgstr "Faixa etária do paciente"
 
-#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:157
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:156
 msgid "race"
 msgstr "corrida"
 
-#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:159
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:158
 msgid "Race/color of the patient"
 msgstr "Raça/cor do paciente"
 
-#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:163
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:162
 msgid "Gender of the patient"
 msgstr "Sexo do paciente"
 
-#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:165
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:164
 msgid "pregnancy"
 msgstr "gravidez"
 
-#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:167
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:166
 msgid "Indicates pregnancy and the gestational age"
 msgstr "Indica gravidez e a idade gestacional"
 
-#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:169
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:168
 msgid "crosses"
 msgstr "cruzes"
 
-#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:171
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:170
 msgid "Indicates the amount of parasitemia in crosses"
 msgstr "Indica o nível de parasitemia nos cruzamentos"
 
-#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:173
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:172
 msgid "cvl_case"
 msgstr "cvl_case"
 
-#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:175
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:174
 msgid "Indicates the existence of cases of canine visceral leishmaniasis"
 msgstr "Indica a existência de casos de leishmaniose visceral canina"
 
-#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:177
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:176
 msgid "scheme"
 msgstr "esquema"
 
-#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:179
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:178
 msgid "Indicates the treatment scheme employed"
 msgstr "Indica o esquema de tratamento utilizado"
 
-#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:181
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:180
 msgid "qty_parasites"
 msgstr "qty_parasites"
 
-#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:183
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:182
 msgid "Indicates the number of parasites per mm^3"
 msgstr "Indica o número de parasitas por mm³"
 
-#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:191
+#: ../../../src/amazonasdatahub/documentations/malaria_amazonas.md:190
 msgid "https://www.synapse.org/Synapse:syn21552203/files"
 msgstr "https://www.synapse.org/Synapse:syn21552203/files"
 
