@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: amazonasdatahub\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-12 13:35+0000\n"
+"POT-Creation-Date: 2026-11-12 15:38+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: pt_BR <LL@li.org>\n"
@@ -210,7 +210,10 @@ msgid ""
 msgstr ""
 "https://www.idam.am.gov.br/biblioteca/relatorio-de-atividades-rat-23-2/"
 
-#: ../../../src/amazonasdatahub/documentations/agriculture_amazonas.md:82
+#: ../../datasets/agriculture_amazonas.md:18
+#: ../../datasets/aids_amazonas.md:18 ../../datasets/gdp_amazonas.md:18
+#: ../../datasets/malaria_amazonas.md:18 ../../datasets/prf_amazonas.md:18
+#: ../../datasets/rionegro_amazonas.md:18 ../../datasets/srl_muni.md:18
 msgid "Example"
 msgstr "Exemplo"
 
@@ -1177,8 +1180,14 @@ msgid "Operating unit and police station"
 msgstr "Unidade operacional e delegacia de polícia"
 
 #: ../../../src/amazonasdatahub/documentations/prf_amazonas.md:138
-msgid "The data source will be provided soon"
-msgstr "A fonte de dados será disponibilizada em breve"
+msgid ""
+"Brasil. Polícia Rodoviária Federal (PRF). Dados Abertos da PRF: Acidentes de"
+" Trânsito. https://www.gov.br/prf/pt-br/acesso-a-informacao/dados-"
+"abertos/dados-abertos-da-prf."
+msgstr ""
+"Brasil. Polícia Rodoviária Federal (PRF). Dados Abertos da PRF: Acidentes de"
+" Trânsito. https://www.gov.br/prf/pt-br/acesso-a-informacao/dados-"
+"abertos/dados-abertos-da-prf."
 
 #: ../../../src/amazonasdatahub/documentations/rionegro_amazonas.md:6
 msgid "rionegro_amazonas"
@@ -1457,3 +1466,6 @@ msgstr "Descrição categórica do Índice TDE."
 #: ../../../src/amazonasdatahub/documentations/srl_muni.md:94
 msgid "https://tede.ufam.edu.br/handle/tede/10627"
 msgstr "https://tede.ufam.edu.br/handle/tede/10627"
+
+#~ msgid "The data source will be provided soon"
+#~ msgstr "A fonte de dados será disponibilizada em breve"
