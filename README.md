@@ -1,6 +1,6 @@
 # amazonasdatahub
 
-![amazonasdatahub logo](assets/figures/logo_amazonasdatahub_small.png)
+![amazonasdatahub logo](https://raw.githubusercontent.com/onelsoncarvalho/amazonasdatahubpy/main/assets/figures/logo_amazonasdatahub_small.png)
 <!-- badges: start -->
 
 <!-- badges: end -->
