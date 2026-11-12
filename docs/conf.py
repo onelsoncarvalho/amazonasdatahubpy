@@ -82,7 +82,7 @@ html_context = {
 }
 html_theme_options = {
     "accent_color": "jade",
-    "color_mode": "dark",
+    "color_mode": "light",
     "dark_code": False,
         "nav_socials": [
         {
