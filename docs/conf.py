@@ -36,6 +36,14 @@ nb_render_markdown_format = "myst"
 
 # Custom block code colors
 # Syntax highlighting
+def copy_theme_script(app):
+    import shutil
+
+    source = CONF_DIR.parent / "scripts" / "mystnb-theme.js"
+    destination = CONF_DIR / "_static" / "mystnb-theme.js"
+
+    destination.parent.mkdir(parents=True, exist_ok=True)
+    shutil.copy2(source, destination)
 
 
 REPO_URL = "https://onelsoncarvalho.github.io/amazonasdatahubpy"
@@ -66,6 +74,7 @@ html_context = {
 }
 html_theme_options = {
     "accent_color": "jade",
+    "color_mode": "dark",
     "dark_code": False,
         "nav_socials": [
         {
@@ -147,3 +156,4 @@ def generate_dataset_stubs(app):
 
 def setup(app):
     app.connect("builder-inited", generate_dataset_stubs)
+    app.connect("builder-inited", copy_theme_script)
